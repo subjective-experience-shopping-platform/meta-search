@@ -1,0 +1,25 @@
+[paths]
+data_dir = "data"
+prompts_dir = "prompts"
+schemas_dir = "schemas"
+[limits]
+max_products_per_category = 5
+max_reviews_per_product = 100
+[agy]
+bin = "agy"
+collect_model = "gemini-3.8-flash-high"
+research_model = "gemini-3.8-flash-high"
+normalize_model = "gemini-3.8-flash-high"
+timeout_sec = 1800
+[codex]
+bin = "codex"
+model = "gpt-6-luna"
+reasoning_effort = "high"
+timeout_sec = 600
+review_workers = 4
+[remote_normalization]
+url = "https://r4tbon7v7ukghnqrny2q5bncxq0jyimu.lambda-url.ap-northeast-2.on.aws/"
+token_file = "cluster-token"
+initial_table = "bootstrap_exact_matches.json"
+review_threshold = 300
+timeout_sec = 930

@@ -1,0 +1,1 @@
+"""Meta-search catalog MCP."""

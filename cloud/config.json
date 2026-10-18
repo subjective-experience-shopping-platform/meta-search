@@ -1,0 +1,13 @@
+{
+  "embedding": {
+    "model_path": "models/snunlp--KR-SBERT-Medium-extended-klueNLItriplet_PARpair_QApair-klueSTS",
+    "model_id": "snunlp/KR-SBERT-Medium-extended-klueNLItriplet_PARpair_QApair-klueSTS",
+    "revision": "76aeef8c39c64fc92c7de7d4e926285ce1c43c9f",
+    "batch_size": 32
+  },
+  "clustering": {
+    "aspect_distance_threshold": 0.36,
+    "status_distance_threshold": 0.20,
+    "excluded_raw_aspects": ["전반적 상품 경험"]
+  }
+}

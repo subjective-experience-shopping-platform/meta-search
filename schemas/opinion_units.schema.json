@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "opinion_units",
+  "type": "object",
+  "properties": {
+    "opinion_units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "raw_aspect": {
+            "type": "string"
+          },
+          "raw_status": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "excerpt": {
+            "type": "string",
+            "description": "리뷰 원문의 정확한 연속 부분 문자열"
+          },
+          "opinion": {
+            "type": "string"
+          },
+          "sentiment": {
+            "type": "string",
+            "enum": [
+              "positive",
+              "negative",
+              "mixed",
+              "neutral",
+              "unknown"
+            ]
+          }
+        },
+        "required": [
+          "raw_aspect",
+          "raw_status",
+          "excerpt",
+          "opinion",
+          "sentiment"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "opinion_units"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "normalization_plan",
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string"
+    },
+    "base_version": {
+      "type": "integer"
+    },
+    "groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "canonical_key": {
+            "type": "string",
+            "description": "snake_case 표준 키"
+          },
+          "display_name": {
+            "type": "string",
+            "description": "한국어 표시명"
+          },
+          "definition": {
+            "type": "string",
+            "description": "속성의 의미와 적용 범위"
+          },
+          "value_type": {
+            "type": "string",
+            "enum": [
+              "string",
+              "number",
+              "boolean",
+              "string_list"
+            ]
+          },
+          "unit": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "number일 때 단위, 아니면 null"
+          },
+          "criteria": {
+            "type": "object",
+            "properties": {
+              "search_value": {
+                "type": "boolean",
+                "description": "검색·필터·비교 가치가 있는가"
+              },
+              "category_scope": {
+                "type": "boolean",
+                "description": "카테고리의 다른 상품에도 적용 가능한가"
+              },
+              "comparable": {
+                "type": "boolean",
+                "description": "같은 정의·기준으로 비교 가능한가"
+              }
+            },
+            "required": [
+              "search_value",
+              "category_scope",
+              "comparable"
+            ],
+            "additionalProperties": false
+          },
+          "tier": {
+            "type": "string",
+            "enum": [
+              "core",
+              "extra"
+            ]
+          },
+          "reason": {
+            "type": "string",
+            "description": "분류 근거"
+          },
+          "assignments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "field_id": {
+                  "type": "string"
+                },
+                "value": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "number"
+                    },
+                    {
+                      "type": "boolean"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  ],
+                  "description": "value_type에 맞는 값: string | number | boolean | string 배열(string_list)"
+                },
+                "value_operation": {
+                  "type": "string",
+                  "enum": [
+                    "keep",
+                    "alias"
+                  ]
+                }
+              },
+              "required": [
+                "field_id",
+                "value",
+                "value_operation"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "canonical_key",
+          "display_name",
+          "definition",
+          "value_type",
+          "unit",
+          "criteria",
+          "tier",
+          "reason",
+          "assignments"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "needs_review": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field_id": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "field_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "category",
+    "base_version",
+    "groups",
+    "needs_review"
+  ],
+  "additionalProperties": false
+}

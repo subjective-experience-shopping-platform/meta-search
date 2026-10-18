@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "gap_research",
+  "type": "object",
+  "properties": {
+    "values": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": {
+            "type": "string",
+            "description": "요청받은 missing_attributes의 key"
+          },
+          "value": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "number"
+              },
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "확인된 값 또는 확인 실패 시 null"
+          },
+          "source_url": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "값을 확인한 페이지 URL, value=null이면 null"
+          },
+          "evidence": {
+            "type": "string",
+            "description": "값의 근거가 되는 원문 구절(짧게). value=null이면 빈 문자열"
+          }
+        },
+        "required": [
+          "key",
+          "value",
+          "source_url",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "notes_markdown": {
+      "type": "string",
+      "description": "조사 중 확인한 추가 사실 메모(Markdown). 없으면 빈 문자열"
+    }
+  },
+  "required": [
+    "values",
+    "notes_markdown"
+  ],
+  "additionalProperties": false
+}

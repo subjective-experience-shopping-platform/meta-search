@@ -1,0 +1,6 @@
+__pycache__
+tests
+.venv
+.build
+models/**/.cache
+models/**/README.md

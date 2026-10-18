@@ -1,0 +1,6306 @@
+{
+  "categories": [
+    {
+      "category_id": "computer_monitor",
+      "display_name": "모니터"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "display_name": "기계식 키보드"
+    }
+  ],
+  "aspects": [
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "27인치 qhd 모니터 선택",
+      "aspect_cluster_id": "ac_fb6b6c7dd4",
+      "label": "27인치 QHD 모니터 선택"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "as 기간",
+      "aspect_cluster_id": "ac_a1dc48565c",
+      "label": "AS 기간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "dp 케이블 동봉",
+      "aspect_cluster_id": "ac_8796484fe5",
+      "label": "DP 케이블 동봉"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "dp 케이블 포함",
+      "aspect_cluster_id": "ac_8796484fe5",
+      "label": "DP 케이블 동봉"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "fps 게임 잔상",
+      "aspect_cluster_id": "ac_a6c5746386",
+      "label": "FPS 게임 잔상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "g-sync",
+      "aspect_cluster_id": "ac_cf638c7b06",
+      "label": "G-SYNC"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "hdmi 단자",
+      "aspect_cluster_id": "ac_eacf87edea",
+      "label": "HDMI 단자"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "ips 패널",
+      "aspect_cluster_id": "ac_6282ecb277",
+      "label": "IPS 패널"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "l자 드라이버 동봉",
+      "aspect_cluster_id": "ac_56ec81d340",
+      "label": "L자 드라이버 동봉"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "qhd 해상도",
+      "aspect_cluster_id": "ac_ce4dec969a",
+      "label": "QHD 해상도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "qhd 해상도 처리",
+      "aspect_cluster_id": "ac_ce4dec969a",
+      "label": "QHD 해상도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "sr",
+      "aspect_cluster_id": "ac_2e8e10afd4",
+      "label": "sR"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "가격",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "label": "가격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "가격 대비 가치",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "label": "가격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "가성비",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "label": "가성비"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "거북목 예방",
+      "aspect_cluster_id": "ac_f49c7e66d2",
+      "label": "거북목 예방"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 몰입감",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "label": "게임용 만족도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 및 작업 활용",
+      "aspect_cluster_id": "ac_25c82aa662",
+      "label": "게임 및 작업 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 배경·그래픽 디테일",
+      "aspect_cluster_id": "ac_e75d324ec5",
+      "label": "게임 배경·그래픽 디테일"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 시 화면 움직임",
+      "aspect_cluster_id": "ac_2300130076",
+      "label": "게임 시 화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 장르별 설정",
+      "aspect_cluster_id": "ac_9d1eb8bb0d",
+      "label": "게임 장르별 설정"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 중 끊김",
+      "aspect_cluster_id": "ac_ea2c0b6f07",
+      "label": "게임 중 끊김"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 중 움직임",
+      "aspect_cluster_id": "ac_2300130076",
+      "label": "게임 시 화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 중 주변 상황 파악",
+      "aspect_cluster_id": "ac_0758d87aba",
+      "label": "게임 중 주변 상황 파악"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임 화면 크기",
+      "aspect_cluster_id": "ac_9d1eb8bb0d",
+      "label": "게임 장르별 설정"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임·영화 화면 전환",
+      "aspect_cluster_id": "ac_25c82aa662",
+      "label": "게임 및 작업 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임용 만족도",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "label": "게임용 만족도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "게임용 적합성",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "label": "게임용 만족도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "결합 방식",
+      "aspect_cluster_id": "ac_5a3d60c8e5",
+      "label": "결합 방식"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "고급감",
+      "aspect_cluster_id": "ac_c64d233666",
+      "label": "품질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "고사양 게임 사용",
+      "aspect_cluster_id": "ac_82ce97a22b",
+      "label": "고사양 게임 사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "고장 여부",
+      "aspect_cluster_id": "ac_6887e9c9bf",
+      "label": "고장 여부"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "공장 캘리브레이션",
+      "aspect_cluster_id": "ac_5604b036b4",
+      "label": "공장 캘리브레이션"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "구매 가격",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "label": "가격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "구성품",
+      "aspect_cluster_id": "ac_6687b376f0",
+      "label": "구성품"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "그래픽",
+      "aspect_cluster_id": "ac_e75d324ec5",
+      "label": "게임 배경·그래픽 디테일"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "글자 가독성",
+      "aspect_cluster_id": "ac_4d2e32a9a5",
+      "label": "글자 가독성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "글자 선명도",
+      "aspect_cluster_id": "ac_720b2dc429",
+      "label": "텍스트 선명도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "글자 픽셀 표현",
+      "aspect_cluster_id": "ac_4089150c56",
+      "label": "글자 픽셀 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "기본 보증 기간",
+      "aspect_cluster_id": "ac_b6e8c069a9",
+      "label": "기본 보증 기간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "기본 스피커 음질",
+      "aspect_cluster_id": "ac_5a427dc345",
+      "label": "기본 스피커 음질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "나사 조임 방식",
+      "aspect_cluster_id": "ac_40f9bcc384",
+      "label": "나사 조임 방식"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "내구성",
+      "aspect_cluster_id": "ac_a67b9713ae",
+      "label": "내구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "내장 스피커",
+      "aspect_cluster_id": "ac_e45910a841",
+      "label": "내장 스피커"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "내장 스피커 음량",
+      "aspect_cluster_id": "ac_5a427dc345",
+      "label": "기본 스피커 음질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "내장스피커",
+      "aspect_cluster_id": "ac_edeffef897",
+      "label": "내장스피커"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "높낮이 조절",
+      "aspect_cluster_id": "ac_6d7e84b96a",
+      "label": "높이 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "높이 조절",
+      "aspect_cluster_id": "ac_6d7e84b96a",
+      "label": "높이 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "눈 보호 적합성",
+      "aspect_cluster_id": "ac_be084743db",
+      "label": "눈 보호 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "눈 피로감",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "label": "눈의 피로"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "눈의 편안함",
+      "aspect_cluster_id": "ac_5e245a2b2f",
+      "label": "눈의 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "눈의 피로",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "label": "눈의 피로"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "다른 모니터와의 이질감",
+      "aspect_cluster_id": "ac_d643ae0130",
+      "label": "다른 모니터와의 이질감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "다용도 활용",
+      "aspect_cluster_id": "ac_64607e624d",
+      "label": "다용도 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "다중 창 작업 공간",
+      "aspect_cluster_id": "ac_4ff3e76e3c",
+      "label": "다중 창 작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "데스크셋업 품격",
+      "aspect_cluster_id": "ac_d0f21cf073",
+      "label": "데스크셋업 품격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "듀얼 모니터 구성",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "label": "듀얼 모니터 작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "듀얼 모니터 세팅",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "label": "듀얼 모니터 작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "듀얼 모니터 작업 공간",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "label": "듀얼 모니터 작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "듀얼 모니터 작업 효율",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "label": "듀얼 모니터 작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "디자이너용 적합성",
+      "aspect_cluster_id": "ac_a3982fd796",
+      "label": "디자이너용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "디자인",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "label": "디자인"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "디자인 모니터 대용성",
+      "aspect_cluster_id": "ac_3bb1397518",
+      "label": "디자인 모니터 대용성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "디자인·그래픽 작업 적합성",
+      "aspect_cluster_id": "ac_a3982fd796",
+      "label": "디자이너용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "레이싱 게임 화면 움직임",
+      "aspect_cluster_id": "ac_2300130076",
+      "label": "게임 시 화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "마감",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "label": "마감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "마감 처리",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "label": "마감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "마우스 움직임 반응",
+      "aspect_cluster_id": "ac_2f99c74e7e",
+      "label": "마우스 움직임 반응"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "마우스 커서 움직임과 웹페이지 스크롤",
+      "aspect_cluster_id": "ac_7aa79509a1",
+      "label": "마우스 커서 움직임과 웹페이지 스크롤"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "마우스·스크롤 움직임",
+      "aspect_cluster_id": "ac_7aa79509a1",
+      "label": "마우스 커서 움직임과 웹페이지 스크롤"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "맥미니 연결성",
+      "aspect_cluster_id": "ac_f88d7c0b74",
+      "label": "맥미니 연결성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "멀티미디어 활용",
+      "aspect_cluster_id": "ac_4af0122c40",
+      "label": "멀티미디어 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "멀티스탠드 작동감",
+      "aspect_cluster_id": "ac_a87d99ecfd",
+      "label": "멀티스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "멀티스탠드 조절 기능",
+      "aspect_cluster_id": "ac_a87d99ecfd",
+      "label": "멀티스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "멀티태스킹",
+      "aspect_cluster_id": "ac_9018814f1f",
+      "label": "멀티태스킹"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "메인 모니터 사용",
+      "aspect_cluster_id": "ac_78d644677a",
+      "label": "메인 모니터 사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "몇 시간 플레이 후 눈 뻑뻑함",
+      "aspect_cluster_id": "ac_a38fdc0f13",
+      "label": "몇 시간 플레이 후 눈 뻑뻑함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 가격",
+      "aspect_cluster_id": "ac_87c748e2c8",
+      "label": "모니터 가격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 간 컬러 일치도",
+      "aspect_cluster_id": "ac_f7b18f08a8",
+      "label": "모니터 간 컬러 일치도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 디자인",
+      "aspect_cluster_id": "ac_3bb1397518",
+      "label": "디자인 모니터 대용성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 배치",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "label": "모니터 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 본체 견고함",
+      "aspect_cluster_id": "ac_f4add5877a",
+      "label": "모니터 본체 견고함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 설정 프로그램",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "label": "모니터 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "모니터 위치 조정",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "label": "모니터 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "목과 어깨 부담",
+      "aspect_cluster_id": "ac_b452413b1a",
+      "label": "목과 어깨 부담"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "몰입감",
+      "aspect_cluster_id": "ac_95f451eb18",
+      "label": "몰입감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "문서 가독성",
+      "aspect_cluster_id": "ac_4d2e32a9a5",
+      "label": "글자 가독성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "문서 작업 시 눈의 피로",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "label": "눈의 피로"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "문서 작업 시 정보 표시량",
+      "aspect_cluster_id": "ac_aa2c57c8cd",
+      "label": "문서 작업 시 정보 표시량"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "문서 작업 피로도",
+      "aspect_cluster_id": "ac_d7a84dd93c",
+      "label": "문서 작업 피로도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "문서·디자인 작업 활용",
+      "aspect_cluster_id": "ac_987de107be",
+      "label": "문서·디자인 작업 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "바디 디자인",
+      "aspect_cluster_id": "ac_c36426a2fa",
+      "label": "바디 디자인"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "반응 속도",
+      "aspect_cluster_id": "ac_df65382e89",
+      "label": "반응 속도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "받침대",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "label": "받침대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "받침대 견고함",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "label": "받침대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "받침대 외관",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "label": "받침대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "받침대 작동감",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "label": "받침대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "받침대 조립",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "label": "받침대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "방 인테리어와의 조화",
+      "aspect_cluster_id": "ac_23c75ab37c",
+      "label": "방 인테리어와의 조화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "배경과의 조화",
+      "aspect_cluster_id": "ac_0eabdd901b",
+      "label": "배경과의 조화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "베젤",
+      "aspect_cluster_id": "ac_15339b134b",
+      "label": "베젤"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "베젤 두께",
+      "aspect_cluster_id": "ac_5d5203ff32",
+      "label": "베젤 두께"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "베젤리스 디자인",
+      "aspect_cluster_id": "ac_15339b134b",
+      "label": "베젤"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "부가 옵션",
+      "aspect_cluster_id": "ac_6356def4fa",
+      "label": "부가 옵션"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "부가기능 사용 가능 여부",
+      "aspect_cluster_id": "ac_a126798fd7",
+      "label": "부가기능 사용 가능 여부"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "불량 화소",
+      "aspect_cluster_id": "ac_8773976a38",
+      "label": "불량 화소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "불량화소",
+      "aspect_cluster_id": "ac_8773976a38",
+      "label": "불량 화소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "불량화소 교환 기준",
+      "aspect_cluster_id": "ac_8773976a38",
+      "label": "불량 화소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "브랜드",
+      "aspect_cluster_id": "ac_6207ec126e",
+      "label": "브랜드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "브랜드 신뢰감",
+      "aspect_cluster_id": "ac_6207ec126e",
+      "label": "브랜드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "블랙 앤 화이트 워크스테이션 구성",
+      "aspect_cluster_id": "ac_68d187d58d",
+      "label": "블랙 앤 화이트 워크스테이션 구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "빛샘",
+      "aspect_cluster_id": "ac_ee79e7fe68",
+      "label": "빛샘"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사용 기간",
+      "aspect_cluster_id": "ac_033d1f6a6e",
+      "label": "사용 기간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사용에 따른 편안함",
+      "aspect_cluster_id": "ac_8e24333f40",
+      "label": "사용에 따른 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사운드",
+      "aspect_cluster_id": "ac_a2a1bd12ce",
+      "label": "사운드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사진 및 영상 작업 경험",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "label": "사진 및 영상 작업 경험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사진 작업 적합성",
+      "aspect_cluster_id": "ac_814185710d",
+      "label": "사진 작업 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사진·디자인 작업",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "label": "디자인"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사진·영상 디테일 표현",
+      "aspect_cluster_id": "ac_f470b0fb91",
+      "label": "사진·영상 디테일 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사진·영상 시청",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "label": "사진 및 영상 작업 경험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "사후지원 신뢰성",
+      "aspect_cluster_id": "ac_9f51187f7f",
+      "label": "사후지원 신뢰성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 보정 상태",
+      "aspect_cluster_id": "ac_ed5d268126",
+      "label": "색 보정 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 심도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 왜곡",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 재현 영역",
+      "aspect_cluster_id": "ac_079441f048",
+      "label": "색 재현 영역"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 재현율",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 정확도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색 표현",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감 신뢰도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감 안정성",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감 정확도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감 조정",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색감 표현",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 모드",
+      "aspect_cluster_id": "ac_1c60ac35d0",
+      "label": "색상 모드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 선명도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 설정 분류",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 왜곡",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 일치도",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "label": "색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 테스트 결과지",
+      "aspect_cluster_id": "ac_faa303a6b3",
+      "label": "색상 테스트 결과지"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색상 표현",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색역",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "색조",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "서브 모니터 활용",
+      "aspect_cluster_id": "ac_c7b4ddd812",
+      "label": "서브 모니터 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "설명서 및 설정 화면 언어",
+      "aspect_cluster_id": "ac_aa4d9f0274",
+      "label": "설명서 및 설정 화면 언어"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "설치",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "label": "설치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "설치 과정",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "label": "설치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "설치 난이도",
+      "aspect_cluster_id": "ac_6f169173fb",
+      "label": "설치 난이도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "설치 편의성",
+      "aspect_cluster_id": "ac_4ad63d7099",
+      "label": "설치 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "성능",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "label": "가성비"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "소프트웨어 설치",
+      "aspect_cluster_id": "ac_769ab099bc",
+      "label": "소프트웨어 설치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드",
+      "aspect_cluster_id": "ac_61f6d7a0a7",
+      "label": "스탠드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 디자인",
+      "aspect_cluster_id": "ac_61f6d7a0a7",
+      "label": "스탠드"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 안정감",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "label": "스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 안정성",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "label": "스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 조절",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "label": "스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 조절 기능",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "label": "스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스탠드 흔들림",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "label": "스탠드 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스피커",
+      "aspect_cluster_id": "ac_e45910a841",
+      "label": "내장 스피커"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "스피커 소리 크기",
+      "aspect_cluster_id": "ac_7bbfd3e6b3",
+      "label": "스피커 소리 크기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야",
+      "aspect_cluster_id": "ac_be755ad7af",
+      "label": "시야각"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야각",
+      "aspect_cluster_id": "ac_be755ad7af",
+      "label": "시야각"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야각에 따른 색 변화",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "label": "시야각에 따른 색 변화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야각에 따른 색 왜곡",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "label": "시야각에 따른 색 변화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야각에 따른 색상",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "label": "시야각에 따른 색 변화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "시야각에 따른 화면 변화",
+      "aspect_cluster_id": "ac_2eacaa4701",
+      "label": "시야각에 따른 화면 변화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "암부 표현",
+      "aspect_cluster_id": "ac_07baf5e442",
+      "label": "암부 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "애니메이션 시청",
+      "aspect_cluster_id": "ac_db9b628f2a",
+      "label": "애니메이션 시청"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "액정 색감",
+      "aspect_cluster_id": "ac_08a8a213fd",
+      "label": "액정 색감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "어두운 장면 표현",
+      "aspect_cluster_id": "ac_efca092752",
+      "label": "어두운 장면 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "업무 사용",
+      "aspect_cluster_id": "ac_4962fe6c58",
+      "label": "업무 사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "업무 작업 편의성",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "label": "업무 작업 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "업무 효율",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "label": "업무 작업 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "업무용 활용 적합성",
+      "aspect_cluster_id": "ac_86d2700a96",
+      "label": "업무용 활용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "여러 창 동시 사용",
+      "aspect_cluster_id": "ac_664d23c19e",
+      "label": "여러 창 동시 사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "연결 단자",
+      "aspect_cluster_id": "ac_e2a8a7742e",
+      "label": "연결 단자"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "연결 대상",
+      "aspect_cluster_id": "ac_f8dd9f931d",
+      "label": "연결 대상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "영상 시청 용도",
+      "aspect_cluster_id": "ac_cbd1dc0538",
+      "label": "영상 시청 용도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "영상 작업 사용",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "label": "사진 및 영상 작업 경험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "영상·게임 사용 경험",
+      "aspect_cluster_id": "ac_3fc780631c",
+      "label": "영상·게임 사용 경험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "영상·일반 사용 적합성",
+      "aspect_cluster_id": "ac_cbd1dc0538",
+      "label": "영상 시청 용도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "오버클럭 시 지연시간",
+      "aspect_cluster_id": "ac_716bafcd24",
+      "label": "오버클럭 시 지연시간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "외관",
+      "aspect_cluster_id": "ac_7554ae85d5",
+      "label": "외관"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "용도 적합성",
+      "aspect_cluster_id": "ac_6d18a74061",
+      "label": "용도 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "움직임 추적",
+      "aspect_cluster_id": "ac_2feed1fcf7",
+      "label": "움직임 추적"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "원인 파악 중 신체적 부담",
+      "aspect_cluster_id": "ac_ba9c42ea33",
+      "label": "원인 파악 중 신체적 부담"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "음향",
+      "aspect_cluster_id": "ac_dae2ff374f",
+      "label": "음향"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "응답 속도",
+      "aspect_cluster_id": "ac_108c255233",
+      "label": "응답속도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "응답속도",
+      "aspect_cluster_id": "ac_108c255233",
+      "label": "응답속도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "이미지 디테일",
+      "aspect_cluster_id": "ac_f470b0fb91",
+      "label": "사진·영상 디테일 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "인터넷·영상 시청",
+      "aspect_cluster_id": "ac_dd0024b036",
+      "label": "인터넷·영상 시청"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "일반 문서 작업",
+      "aspect_cluster_id": "ac_987de107be",
+      "label": "문서·디자인 작업 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "일상 용도 사용 적합성",
+      "aspect_cluster_id": "ac_86d2700a96",
+      "label": "업무용 활용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 공간",
+      "aspect_cluster_id": "ac_0d57f68165",
+      "label": "작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 능률",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "label": "업무 작업 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 시 화면 가독성",
+      "aspect_cluster_id": "ac_5cfa4cef0b",
+      "label": "작업 시 화면 가독성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 용도",
+      "aspect_cluster_id": "ac_0d57f68165",
+      "label": "작업 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 자세 조절",
+      "aspect_cluster_id": "ac_05d377ff0b",
+      "label": "작업 자세 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 중 눈 편안함",
+      "aspect_cluster_id": "ac_5e245a2b2f",
+      "label": "눈의 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작업 중 눈의 피로도",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "label": "눈의 피로"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "작은 글씨 시청",
+      "aspect_cluster_id": "ac_1c879c53ab",
+      "label": "작은 글씨 시청"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "잔고장 및 결함",
+      "aspect_cluster_id": "ac_1c317cee5b",
+      "label": "잔상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "잔상",
+      "aspect_cluster_id": "ac_1c317cee5b",
+      "label": "잔상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장기 사용",
+      "aspect_cluster_id": "ac_0ebd076be3",
+      "label": "장기 사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 게임 시 눈 피로",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "label": "장시간 게임 시 눈의 피로감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 게임 시 눈의 피로감",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "label": "장시간 게임 시 눈의 피로감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 사용",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "label": "장시간 작업"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 사용 시 모니터 높이 조절",
+      "aspect_cluster_id": "ac_a12f25ee5f",
+      "label": "장시간 사용 시 모니터 높이 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 작업",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "label": "장시간 작업"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 작업 부담",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "label": "장시간 작업"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 작업 시 눈 피로도",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "label": "장시간 게임 시 눈의 피로감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "장시간 화면 시청자의 사용 적합성",
+      "aspect_cluster_id": "ac_9be3961194",
+      "label": "장시간 화면 시청자의 사용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "재구매 의향",
+      "aspect_cluster_id": "ac_9bd08c22ca",
+      "label": "재구매 의향"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "재질",
+      "aspect_cluster_id": "ac_1cf9d6d922",
+      "label": "재질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "저사양 pc에서의 성능 활용",
+      "aspect_cluster_id": "ac_c4117473e6",
+      "label": "저사양 PC에서의 성능 활용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전문 게임용 적합성",
+      "aspect_cluster_id": "ac_39afa467e5",
+      "label": "전문 게임용 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전반적 상품 경험",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "label": "전반적 상품 경험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전원 문제 원인 파악",
+      "aspect_cluster_id": "ac_47628777ea",
+      "label": "전원 문제 원인 파악"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전원 작동",
+      "aspect_cluster_id": "ac_f99cf2d300",
+      "label": "전원 작동"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전원 케이블 수량",
+      "aspect_cluster_id": "ac_f34706648c",
+      "label": "전원 케이블 수량"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "전원 플러그 구성",
+      "aspect_cluster_id": "ac_71563c2dd1",
+      "label": "전원 플러그 구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제작 정성",
+      "aspect_cluster_id": "ac_61a1b551ea",
+      "label": "제작 정성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 가격",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "label": "가격"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 결점",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 사양",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 사용 상태",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 상태",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 색상",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "label": "색 표현"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 수명",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 작동",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "label": "제품 상태"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "제품 적합성",
+      "aspect_cluster_id": "ac_6d18a74061",
+      "label": "용도 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "조립",
+      "aspect_cluster_id": "ac_9378a8cb4b",
+      "label": "조립"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "조립 난이도",
+      "aspect_cluster_id": "ac_6f169173fb",
+      "label": "설치 난이도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "조립 시간",
+      "aspect_cluster_id": "ac_9378a8cb4b",
+      "label": "조립"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "조립 편의성",
+      "aspect_cluster_id": "ac_4ad63d7099",
+      "label": "설치 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "조립·설치 편의성",
+      "aspect_cluster_id": "ac_4ad63d7099",
+      "label": "설치 편의성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "주사율",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "label": "주사율"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "주사율 차이 체감",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "label": "주사율"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "지지 암 조절 기능",
+      "aspect_cluster_id": "ac_2c2e3e3f3f",
+      "label": "지지 암 조절 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "지지대",
+      "aspect_cluster_id": "ac_e7395d38d0",
+      "label": "지지대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "책상 배치",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "label": "책상 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "책상 분위기",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "label": "책상 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "책상 위 공간 차지",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "label": "책상 배치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "책상 정돈",
+      "aspect_cluster_id": "ac_c58820e362",
+      "label": "책상 정돈"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "초기 설치",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "label": "설치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "측면 시청 시 색 변화",
+      "aspect_cluster_id": "ac_079441f048",
+      "label": "색 재현 영역"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "커서·스크롤·창 이동의 부드러움",
+      "aspect_cluster_id": "ac_1f45b9a92b",
+      "label": "커서·스크롤·창 이동의 부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "콘텐츠 감상 적합성",
+      "aspect_cluster_id": "ac_3676c1f147",
+      "label": "콘텐츠 감상 적합성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "크기",
+      "aspect_cluster_id": "ac_bcc38b5a0c",
+      "label": "크기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "텍스트 선명도",
+      "aspect_cluster_id": "ac_720b2dc429",
+      "label": "텍스트 선명도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "틸트 기능",
+      "aspect_cluster_id": "ac_1fec62d381",
+      "label": "틸트 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "파손 보험",
+      "aspect_cluster_id": "ac_22cca42844",
+      "label": "파손 보험"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "패널 상태",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "label": "패널 특성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "패널 종류",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "label": "패널 특성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "패널 특성",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "label": "패널 특성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "폰트 선명도",
+      "aspect_cluster_id": "ac_f93421d6f5",
+      "label": "폰트 선명도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "품질",
+      "aspect_cluster_id": "ac_c64d233666",
+      "label": "품질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "프레임 지원",
+      "aspect_cluster_id": "ac_463bfc87f7",
+      "label": "프레임 지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "프로그램을 통한 설정 조작",
+      "aspect_cluster_id": "ac_5bc6cf5989",
+      "label": "프로그램을 통한 설정 조작"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "피벗 기능",
+      "aspect_cluster_id": "ac_050e7d1e7d",
+      "label": "피벗 기능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "하단 베젤 눈금 디자인",
+      "aspect_cluster_id": "ac_2c02219867",
+      "label": "하단 베젤 눈금 디자인"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "한국어 번역",
+      "aspect_cluster_id": "ac_4c0234f2f1",
+      "label": "한국어 번역"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "한국어 지원",
+      "aspect_cluster_id": "ac_4c0234f2f1",
+      "label": "한국어 번역"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "해상도",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "label": "해상도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "해상도 선명도",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "label": "해상도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "label": "화면 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 공간",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "label": "화면 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 공간감",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "label": "화면 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 깔끔함",
+      "aspect_cluster_id": "ac_03293b5b54",
+      "label": "화면 전환 부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 끊김",
+      "aspect_cluster_id": "ac_24ea5fd7d6",
+      "label": "화면 끊김"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 너비",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "label": "화면 크기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 답답함",
+      "aspect_cluster_id": "ac_a348ef5cfa",
+      "label": "화면 답답함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 몰입감",
+      "aspect_cluster_id": "ac_c698fe1968",
+      "label": "화면 몰입감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 밝기",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "label": "화면 밝기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 부드러움",
+      "aspect_cluster_id": "ac_03293b5b54",
+      "label": "화면 전환 부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 색감",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "label": "화면 밝기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 생동감",
+      "aspect_cluster_id": "ac_c698fe1968",
+      "label": "화면 몰입감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 선명도",
+      "aspect_cluster_id": "ac_011c1766d4",
+      "label": "화면 선명도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 시야",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 시청 시 눈의 편안함",
+      "aspect_cluster_id": "ac_5e245a2b2f",
+      "label": "눈의 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 시청감",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 외관",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "label": "화면 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 움직임",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 위치 설정",
+      "aspect_cluster_id": "ac_34e479c0ee",
+      "label": "화면 위치 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 위치 조절",
+      "aspect_cluster_id": "ac_34e479c0ee",
+      "label": "화면 위치 조절"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 작업 공간",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "label": "화면 공간"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 전환",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 전환 부드러움",
+      "aspect_cluster_id": "ac_03293b5b54",
+      "label": "화면 전환 부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 전환 주사율",
+      "aspect_cluster_id": "ac_383151594f",
+      "label": "화면 주사율"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 주사율",
+      "aspect_cluster_id": "ac_383151594f",
+      "label": "화면 주사율"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 주사율 지원",
+      "aspect_cluster_id": "ac_383151594f",
+      "label": "화면 주사율"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 출력",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 크기",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "label": "화면 크기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 표시감",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "label": "화면 밝기"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 표현",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "label": "화면 움직임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 해상도",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "label": "해상도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면 흠집",
+      "aspect_cluster_id": "ac_be40984a7a",
+      "label": "화면 흠집"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화면의 시각적 자극",
+      "aspect_cluster_id": "ac_2eacaa4701",
+      "label": "시야각에 따른 화면 변화"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화질",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "label": "화질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화질 선명도",
+      "aspect_cluster_id": "ac_011c1766d4",
+      "label": "화면 선명도"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "화질 차이",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "label": "화질"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "확장성",
+      "aspect_cluster_id": "ac_36caecf47c",
+      "label": "확장성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "후면 포트 구성",
+      "aspect_cluster_id": "ac_1ab06cf92e",
+      "label": "후면 포트 구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "raw_aspect": "흠집",
+      "aspect_cluster_id": "ac_be40984a7a",
+      "label": "화면 흠집"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "'>. ' 버튼 입력",
+      "aspect_cluster_id": "ac_2de2693672",
+      "label": "'>. ' 버튼 입력"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "usb 연결",
+      "aspect_cluster_id": "ac_9f7ea80404",
+      "label": "USB 연결"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "가격",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "label": "가격"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "가격대",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "label": "가격"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "가성비",
+      "aspect_cluster_id": "ac_e402bdfedd",
+      "label": "가성비"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "갈축 재고",
+      "aspect_cluster_id": "ac_f89fa8c215",
+      "label": "갈축 재고"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "감성",
+      "aspect_cluster_id": "ac_829f6c27bb",
+      "label": "감성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "게이밍 사용",
+      "aspect_cluster_id": "ac_cffcfd6bdf",
+      "label": "게이밍 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "게이밍 사용 편의성",
+      "aspect_cluster_id": "ac_cffcfd6bdf",
+      "label": "게이밍 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "게임 플레이 재미",
+      "aspect_cluster_id": "ac_e8d6d7dd3d",
+      "label": "게임 플레이 재미"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "고장",
+      "aspect_cluster_id": "ac_2e7752485f",
+      "label": "고장"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "구매 가격",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "label": "가격"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "구조",
+      "aspect_cluster_id": "ac_f2b210e963",
+      "label": "구조"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "굿즈 느낌",
+      "aspect_cluster_id": "ac_89c79b38ca",
+      "label": "굿즈 느낌"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "기본 스위치 사용",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "label": "스위치 교체"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "내부 구조",
+      "aspect_cluster_id": "ac_f2b210e963",
+      "label": "구조"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "넌클릭감",
+      "aspect_cluster_id": "ac_7807abe47f",
+      "label": "넌클릭감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "높이",
+      "aspect_cluster_id": "ac_09f3c0574f",
+      "label": "높이"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "동글 연결",
+      "aspect_cluster_id": "ac_d7fb207cf1",
+      "label": "동글 연결"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "뒷면 디자인",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "label": "디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "디스플레이 사용자 설정",
+      "aspect_cluster_id": "ac_0057fe1df3",
+      "label": "디스플레이 사용자 설정"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "디자인",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "label": "디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "라이트 설정",
+      "aspect_cluster_id": "ac_e09d4bddf7",
+      "label": "라이트 설정"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "마감",
+      "aspect_cluster_id": "ac_b6925ea591",
+      "label": "마감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "맥 블루투스 연결",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "label": "블루투스 연결"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "맥 사용자의 rgb 모드 호환성",
+      "aspect_cluster_id": "ac_7a636f962a",
+      "label": "맥 사용자의 RGB 모드 호환성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "모서리 흠집",
+      "aspect_cluster_id": "ac_2edbdec278",
+      "label": "모서리 흠집"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "무게",
+      "aspect_cluster_id": "ac_a15e48d6d0",
+      "label": "무게"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "무게감",
+      "aspect_cluster_id": "ac_a15e48d6d0",
+      "label": "무게"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "무선 사용 시 배터리 소모",
+      "aspect_cluster_id": "ac_0a0f19da2c",
+      "label": "무선 사용 시 배터리 소모"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "방향키 위 고양이 디자인",
+      "aspect_cluster_id": "ac_e16b1e4f64",
+      "label": "방향키 위 고양이 디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "배치 위치",
+      "aspect_cluster_id": "ac_3c6a5d623d",
+      "label": "배치 위치"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "배터리 사용 시간",
+      "aspect_cluster_id": "ac_0a0f19da2c",
+      "label": "무선 사용 시 배터리 소모"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축",
+      "aspect_cluster_id": "ac_a72a33b86f",
+      "label": "백축"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축 사용감",
+      "aspect_cluster_id": "ac_2ec7d386cb",
+      "label": "백축 사용감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축 소리",
+      "aspect_cluster_id": "ac_a72a33b86f",
+      "label": "백축"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축 적합성",
+      "aspect_cluster_id": "ac_2ec7d386cb",
+      "label": "백축 사용감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축 키압",
+      "aspect_cluster_id": "ac_15fd905d6f",
+      "label": "키압"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "백축 타건감",
+      "aspect_cluster_id": "ac_a72a33b86f",
+      "label": "백축"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "본체",
+      "aspect_cluster_id": "ac_8ce76bcf96",
+      "label": "본체"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "본품 상태",
+      "aspect_cluster_id": "ac_6600241929",
+      "label": "본품 상태"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "블루투스 연결",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "label": "블루투스 연결"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "블루투스 페어링",
+      "aspect_cluster_id": "ac_f847072f99",
+      "label": "블루투스 페어링"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "비주얼",
+      "aspect_cluster_id": "ac_db11f21030",
+      "label": "비주얼"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "사무용 사용 적합성",
+      "aspect_cluster_id": "ac_4cfbdc8ef8",
+      "label": "사무용 사용 적합성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "사용 경험",
+      "aspect_cluster_id": "ac_c77072c4ba",
+      "label": "사용 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "사용 기간",
+      "aspect_cluster_id": "ac_c77072c4ba",
+      "label": "사용 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "색감",
+      "aspect_cluster_id": "ac_214ddd5c9a",
+      "label": "색상"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "색상",
+      "aspect_cluster_id": "ac_214ddd5c9a",
+      "label": "색상"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "선물 수령자의 반응",
+      "aspect_cluster_id": "ac_15451322bf",
+      "label": "선물 수령자의 반응"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "성능",
+      "aspect_cluster_id": "ac_e402bdfedd",
+      "label": "가성비"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "소리",
+      "aspect_cluster_id": "ac_a88fc8b9c6",
+      "label": "소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "소리 억제",
+      "aspect_cluster_id": "ac_a88fc8b9c6",
+      "label": "소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "소음",
+      "aspect_cluster_id": "ac_4713403490",
+      "label": "소음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "소음 수준",
+      "aspect_cluster_id": "ac_4713403490",
+      "label": "소음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "소재",
+      "aspect_cluster_id": "ac_b3b4c8233f",
+      "label": "소재"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "손 피로",
+      "aspect_cluster_id": "ac_6f630e01a6",
+      "label": "손 피로"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "손목 부담",
+      "aspect_cluster_id": "ac_f50c15abe3",
+      "label": "손목 부담"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스위치 교체",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "label": "스위치 교체"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스위치 축",
+      "aspect_cluster_id": "ac_9614cb654e",
+      "label": "스위치 축"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스위치 탈거",
+      "aspect_cluster_id": "ac_59fb0e31fa",
+      "label": "스위치 탈거"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스위치·키캡 교체 사용",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "label": "스위치 교체"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스태빌 소음",
+      "aspect_cluster_id": "ac_f1e434b17c",
+      "label": "스태빌 소음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스테빌 소음",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "label": "스테빌라이저"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스테빌 하자",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "label": "스테빌라이저"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "스테빌라이저",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "label": "스테빌라이저"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "실물 외관",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "label": "외관"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "안정감",
+      "aspect_cluster_id": "ac_893951fa0f",
+      "label": "안정감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "앞면 디자인",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "label": "디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "연결 방식",
+      "aspect_cluster_id": "ac_42efb3fa91",
+      "label": "연결 방식"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "완성도",
+      "aspect_cluster_id": "ac_a3cbfec0d2",
+      "label": "완성도"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "외관",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "label": "외관"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "외부",
+      "aspect_cluster_id": "ac_f9b0088300",
+      "label": "외부"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "윈도우 블루투스 연결",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "label": "블루투스 연결"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "유무선 전환",
+      "aspect_cluster_id": "ac_16f5aeb398",
+      "label": "유무선 전환"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "윤활",
+      "aspect_cluster_id": "ac_fb11c2acd0",
+      "label": "윤활"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "음악 모드 연동",
+      "aspect_cluster_id": "ac_5a865d2f2d",
+      "label": "음악 모드 연동"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "입력 오류",
+      "aspect_cluster_id": "ac_440232911d",
+      "label": "입력 오류"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "자가 수리 경험",
+      "aspect_cluster_id": "ac_3ba8c0c13b",
+      "label": "자가 수리 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "자판 소리",
+      "aspect_cluster_id": "ac_be7ddc054e",
+      "label": "자판 소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "저압 리니어 선호자의 구매 적합성",
+      "aspect_cluster_id": "ac_88b0fd6ca8",
+      "label": "저압 리니어 선호자의 구매 적합성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "전반적 상품 경험",
+      "aspect_cluster_id": "ac_011693dacb",
+      "label": "전반적 상품 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제작 정성",
+      "aspect_cluster_id": "ac_45a4aadc4a",
+      "label": "제작 정성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제품 구성",
+      "aspect_cluster_id": "ac_0568603a73",
+      "label": "품질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제품 밸런스",
+      "aspect_cluster_id": "ac_4cc12b7b23",
+      "label": "제품 밸런스"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제품 상태",
+      "aspect_cluster_id": "ac_0568603a73",
+      "label": "품질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제품 신뢰감",
+      "aspect_cluster_id": "ac_7f87b06083",
+      "label": "제품 신뢰감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "제품 품질",
+      "aspect_cluster_id": "ac_0568603a73",
+      "label": "품질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "중국 제품 발전",
+      "aspect_cluster_id": "ac_6a31aeb787",
+      "label": "중국 제품 발전"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "중요한 부분 및 다른 부분의 상태",
+      "aspect_cluster_id": "ac_0f00bf23e7",
+      "label": "중요한 부분 및 다른 부분의 상태"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "책상 분위기",
+      "aspect_cluster_id": "ac_a5289210c4",
+      "label": "책상 분위기"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "추가 조정 필요성",
+      "aspect_cluster_id": "ac_f07f397dab",
+      "label": "추가 조정 필요성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "카일 스위치 타건감",
+      "aspect_cluster_id": "ac_d17407ef1c",
+      "label": "카일 스위치 타건감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "커스텀",
+      "aspect_cluster_id": "ac_e29875cd29",
+      "label": "커스텀"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "콜라보 키보드 구매 의향",
+      "aspect_cluster_id": "ac_6635f18d68",
+      "label": "콜라보 키보드 구매 의향"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "퀄리티",
+      "aspect_cluster_id": "ac_e402bdfedd",
+      "label": "가성비"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키 높이",
+      "aspect_cluster_id": "ac_2da518870e",
+      "label": "키감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키 매핑",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "label": "키 매핑 자유도"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키 매핑 자유도",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "label": "키 매핑 자유도"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키 배열",
+      "aspect_cluster_id": "ac_6d59b29d89",
+      "label": "키 배열"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키 입력",
+      "aspect_cluster_id": "ac_5e9dd25122",
+      "label": "키 입력"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키감",
+      "aspect_cluster_id": "ac_2da518870e",
+      "label": "키감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키매핑 프로그램 직관성",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "label": "키 매핑 자유도"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 높이",
+      "aspect_cluster_id": "ac_2da518870e",
+      "label": "키감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 디자인",
+      "aspect_cluster_id": "ac_8115a895cf",
+      "label": "키보드 디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 소리",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "label": "키보드 소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 소재",
+      "aspect_cluster_id": "ac_8115a895cf",
+      "label": "키보드 디자인"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 외관",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "label": "키보드 소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 케이스의 용도",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "label": "키보드 소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키보드 타건음",
+      "aspect_cluster_id": "ac_4b2bbf2426",
+      "label": "키보드 타건음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키압",
+      "aspect_cluster_id": "ac_15fd905d6f",
+      "label": "키압"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "키캡",
+      "aspect_cluster_id": "ac_2da518870e",
+      "label": "키감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타건 경험",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "label": "타건감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타건 소리",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "label": "타건감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타건감",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "label": "타건감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타건음",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "label": "타건감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타격감",
+      "aspect_cluster_id": "ac_b1371ad520",
+      "label": "타격감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타이핑 경험",
+      "aspect_cluster_id": "ac_8fe7f8e3cf",
+      "label": "타이핑 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타이핑 느낌",
+      "aspect_cluster_id": "ac_8fe7f8e3cf",
+      "label": "타이핑 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타자 경험",
+      "aspect_cluster_id": "ac_19c35e4726",
+      "label": "타자 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "타자감",
+      "aspect_cluster_id": "ac_19c35e4726",
+      "label": "타자 경험"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "터치감",
+      "aspect_cluster_id": "ac_cec8ab5dbc",
+      "label": "터치감"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "텐키리스 배열 적응",
+      "aspect_cluster_id": "ac_ee6964f772",
+      "label": "텐키리스 배열 적응"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "통울림",
+      "aspect_cluster_id": "ac_00099d4fe6",
+      "label": "통울림"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "투명 키캡 판매",
+      "aspect_cluster_id": "ac_019e3edc9b",
+      "label": "투명 키캡 판매"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "팜레스트",
+      "aspect_cluster_id": "ac_540b3bf9ca",
+      "label": "팜레스트 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "팜레스트 사용",
+      "aspect_cluster_id": "ac_540b3bf9ca",
+      "label": "팜레스트 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "펌웨어 설정 필요 여부",
+      "aspect_cluster_id": "ac_32e7ca8605",
+      "label": "펌웨어 설정 필요 여부"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "품질",
+      "aspect_cluster_id": "ac_0568603a73",
+      "label": "품질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "품질 관리",
+      "aspect_cluster_id": "ac_0568603a73",
+      "label": "품질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "하드케이스 걸쇠",
+      "aspect_cluster_id": "ac_899cde8155",
+      "label": "하드케이스 걸쇠"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "하드케이스 표면",
+      "aspect_cluster_id": "ac_899cde8155",
+      "label": "하드케이스 걸쇠"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "하우징 재질",
+      "aspect_cluster_id": "ac_81ed58026b",
+      "label": "하우징 재질"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "하우징 찍힘",
+      "aspect_cluster_id": "ac_92e048939e",
+      "label": "하우징 찍힘"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "하우징 흠집",
+      "aspect_cluster_id": "ac_92e048939e",
+      "label": "하우징 찍힘"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "한글 입력",
+      "aspect_cluster_id": "ac_47d1537aa0",
+      "label": "한글 입력"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "한영키 설정",
+      "aspect_cluster_id": "ac_eb999526aa",
+      "label": "한영키 설정"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "한영키 작동",
+      "aspect_cluster_id": "ac_eb999526aa",
+      "label": "한영키 설정"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "raw_aspect": "황축 pro 소리",
+      "aspect_cluster_id": "ac_e2adfee095",
+      "label": "황축 Pro 소리"
+    }
+  ],
+  "states": [
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "raw_status": "가능함",
+      "state_cluster_id": "sc_956d481db7",
+      "label": "가능함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "raw_status": "만족 가능성",
+      "state_cluster_id": "sc_3e04da0a72",
+      "label": "만족 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_00b65791c2",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_fd30cb1b6b",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_011c1766d4",
+      "raw_status": "깨끗함",
+      "state_cluster_id": "sc_5cd03e4f11",
+      "label": "깨끗함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_011c1766d4",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_e117eba154",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_011c1766d4",
+      "raw_status": "선명함",
+      "state_cluster_id": "sc_d8b3a79b7b",
+      "label": "선명함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_03293b5b54",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_2c831c17e2",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_03293b5b54",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_8b14296935",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_033d1f6a6e",
+      "raw_status": "장기간 사용 희망",
+      "state_cluster_id": "sc_9be697850e",
+      "label": "장기간 사용 희망"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_050e7d1e7d",
+      "raw_status": "지원",
+      "state_cluster_id": "sc_73f5d7b981",
+      "label": "지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_05d377ff0b",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_5dcad09d37",
+      "label": "편리함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "가능",
+      "state_cluster_id": "sc_1d84bc61b4",
+      "label": "가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "거의 없음",
+      "state_cluster_id": "sc_10646c9185",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "높낮이·좌우·세로 회전 조절 가능",
+      "state_cluster_id": "sc_3706c8384c",
+      "label": "높낮이·좌우·세로 회전 조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "높이·각도 조절 가능",
+      "state_cluster_id": "sc_19e3bf80fb",
+      "label": "높이·각도 조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "안정적",
+      "state_cluster_id": "sc_a22de51fab",
+      "label": "안정적"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "안정적임",
+      "state_cluster_id": "sc_a22de51fab",
+      "label": "안정적"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0738a3b05d",
+      "raw_status": "조절 가능",
+      "state_cluster_id": "sc_3a08aed060",
+      "label": "조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0758d87aba",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_2272b393bc",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_079441f048",
+      "raw_status": "srgb 100%, dci-p3 95%",
+      "state_cluster_id": "sc_9dca833d96",
+      "label": "sRGB 100%, DCI-P3 95%"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_079441f048",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_b465a16346",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_07baf5e442",
+      "raw_status": "명확함",
+      "state_cluster_id": "sc_e4ccf891e4",
+      "label": "명확함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_08a8a213fd",
+      "raw_status": "누런 느낌",
+      "state_cluster_id": "sc_9089bc3930",
+      "label": "누런 느낌"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0d57f68165",
+      "raw_status": "넓어짐",
+      "state_cluster_id": "sc_3620abd5c5",
+      "label": "넓어짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0eabdd901b",
+      "raw_status": "흰 배경에 어울릴 가능성",
+      "state_cluster_id": "sc_1d9dbd48fc",
+      "label": "흰 배경에 어울릴 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_0ebd076be3",
+      "raw_status": "잘 사용할 것 같음",
+      "state_cluster_id": "sc_b255834892",
+      "label": "잘 사용할 것 같음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_108c255233",
+      "raw_status": "빠름",
+      "state_cluster_id": "sc_54d9cc3527",
+      "label": "빠름"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_108c255233",
+      "raw_status": "지원",
+      "state_cluster_id": "sc_466f7f425c",
+      "label": "지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_15339b134b",
+      "raw_status": "군더더기 없음",
+      "state_cluster_id": "sc_c5ea523333",
+      "label": "군더더기 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_15339b134b",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_94fd7658a7",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "raw_status": "27인치",
+      "state_cluster_id": "sc_de70239501",
+      "label": "27인치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "raw_status": "넓음",
+      "state_cluster_id": "sc_c18aa6df8c",
+      "label": "넓음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "raw_status": "크게 보임",
+      "state_cluster_id": "sc_085a155eb8",
+      "label": "크게 보임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_17eef8476f",
+      "raw_status": "큼",
+      "state_cluster_id": "sc_4e8be52b9c",
+      "label": "큼"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1ab06cf92e",
+      "raw_status": "hdmi·dp 등 포트 및 허브 기능 구비",
+      "state_cluster_id": "sc_cd0be2fafd",
+      "label": "HDMI·DP 등 포트 및 허브 기능 구비"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1c317cee5b",
+      "raw_status": "심하지 않음",
+      "state_cluster_id": "sc_52cedf7fb4",
+      "label": "심하지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1c317cee5b",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_2856747be1",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1c317cee5b",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_397ea240df",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1c60ac35d0",
+      "raw_status": "rec.709, bt.2020 제공",
+      "state_cluster_id": "sc_93efe298fe",
+      "label": "Rec.709, BT.2020 제공"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1c879c53ab",
+      "raw_status": "눈의 피로 감소",
+      "state_cluster_id": "sc_0d066b89e5",
+      "label": "눈의 피로 감소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1cf9d6d922",
+      "raw_status": "단단함",
+      "state_cluster_id": "sc_0bfc07adfd",
+      "label": "단단함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1f45b9a92b",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_4abdf28c17",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_1fec62d381",
+      "raw_status": "세로 화면 가능",
+      "state_cluster_id": "sc_e6c751b203",
+      "label": "세로 화면 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_22cca42844",
+      "raw_status": "가입 가능",
+      "state_cluster_id": "sc_89d0ad7a8c",
+      "label": "가입 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2300130076",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_1655f567f0",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2300130076",
+      "raw_status": "자연스러움",
+      "state_cluster_id": "sc_15cba761f5",
+      "label": "자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_23c75ab37c",
+      "raw_status": "잘 어울림",
+      "state_cluster_id": "sc_e53721c6e8",
+      "label": "잘 어울림"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_24ea5fd7d6",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_0a0d835ccd",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_a78f821a52",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "사무용 사용에 손색없음",
+      "state_cluster_id": "sc_5e86bd7ebe",
+      "label": "사무용 사용에 손색없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "선명함",
+      "state_cluster_id": "sc_abceefa5af",
+      "label": "선명함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "우수함",
+      "state_cluster_id": "sc_c0fcb7bcf9",
+      "label": "우수함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_14ed2d31ad",
+      "label": "좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "쨍함",
+      "state_cluster_id": "sc_e4c73498ef",
+      "label": "쨍함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "차이 체감",
+      "state_cluster_id": "sc_6c89f9ab9d",
+      "label": "차이 체감"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2567682ffa",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_5b19878364",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_25c82aa662",
+      "raw_status": "찢어짐 없이 매끄러움",
+      "state_cluster_id": "sc_b4f506e85b",
+      "label": "찢어짐 없이 매끄러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_25c82aa662",
+      "raw_status": "필수적",
+      "state_cluster_id": "sc_eb3e75abd6",
+      "label": "필수적"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2c02219867",
+      "raw_status": "정교함",
+      "state_cluster_id": "sc_d38d1f81b9",
+      "label": "정교함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2c2e3e3f3f",
+      "raw_status": "높이 및 상하좌우 틸트 조절 가능",
+      "state_cluster_id": "sc_e913b0e701",
+      "label": "높이 및 상하좌우 틸트 조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2e8e10afd4",
+      "raw_status": "120%",
+      "state_cluster_id": "sc_ce82f26d44",
+      "label": "120%"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2eacaa4701",
+      "raw_status": "과하지 않음",
+      "state_cluster_id": "sc_8c1d0bef9c",
+      "label": "과하지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2eacaa4701",
+      "raw_status": "변화가 적음",
+      "state_cluster_id": "sc_459bfe50ea",
+      "label": "변화가 적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2f99c74e7e",
+      "raw_status": "자연스러움",
+      "state_cluster_id": "sc_0c5c743187",
+      "label": "자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_2feed1fcf7",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_0d514895a3",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "raw_status": "밝고 화사함",
+      "state_cluster_id": "sc_cdf94a89ac",
+      "label": "밝고 화사함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "raw_status": "시원함",
+      "state_cluster_id": "sc_882f2c258b",
+      "label": "시원함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "raw_status": "적당함",
+      "state_cluster_id": "sc_7ccce22f48",
+      "label": "적당함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "raw_status": "쨍함",
+      "state_cluster_id": "sc_f6880fa013",
+      "label": "쨍함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_33614e7c2a",
+      "raw_status": "충분함",
+      "state_cluster_id": "sc_d147c79356",
+      "label": "충분함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34e479c0ee",
+      "raw_status": "가능",
+      "state_cluster_id": "sc_fb357e51b9",
+      "label": "가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34e479c0ee",
+      "raw_status": "높낮이·좌우 조절 가능",
+      "state_cluster_id": "sc_a04d626dfb",
+      "label": "높낮이·좌우 조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34e479c0ee",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_2d91a8118a",
+      "label": "편리함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "게이밍·작업용 균형",
+      "state_cluster_id": "sc_07fbfe87fd",
+      "label": "게이밍·작업용 균형"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "균형 잡힘",
+      "state_cluster_id": "sc_0c744eba2d",
+      "label": "균형 잡힘"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "균형이 잘 잡힘",
+      "state_cluster_id": "sc_0c744eba2d",
+      "label": "균형 잡힘"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "만족",
+      "state_cluster_id": "sc_ab98ce9f92",
+      "label": "만족"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "만족도 높음",
+      "state_cluster_id": "sc_ab98ce9f92",
+      "label": "만족"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "모든 니즈 충족",
+      "state_cluster_id": "sc_8e3b7b4dc8",
+      "label": "모든 니즈 충족"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "보통",
+      "state_cluster_id": "sc_cf0f1b3dcf",
+      "label": "보통"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "부족함",
+      "state_cluster_id": "sc_3e9891dc13",
+      "label": "부족함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "우수함",
+      "state_cluster_id": "sc_502fc4d1f6",
+      "label": "우수함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "한 달 내 고장 여부에 따라 조건부로 나쁘지 않음",
+      "state_cluster_id": "sc_f89b904ddc",
+      "label": "한 달 내 고장 여부에 따라 조건부로 나쁘지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_34f0d5011d",
+      "raw_status": "행복함",
+      "state_cluster_id": "sc_c452c3c9c1",
+      "label": "행복함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3676c1f147",
+      "raw_status": "충분함",
+      "state_cluster_id": "sc_7aef5d5906",
+      "label": "충분함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_36caecf47c",
+      "raw_status": "뛰어남",
+      "state_cluster_id": "sc_f688fff14f",
+      "label": "뛰어남"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_383151594f",
+      "raw_status": "120hz",
+      "state_cluster_id": "sc_5e352f8b45",
+      "label": "120Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_383151594f",
+      "raw_status": "165hz",
+      "state_cluster_id": "sc_2c32273e5d",
+      "label": "165Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_383151594f",
+      "raw_status": "4k 60hz, qhd 120hz",
+      "state_cluster_id": "sc_8c28895ff7",
+      "label": "4K 60Hz, QHD 120Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "raw_status": "간단함",
+      "state_cluster_id": "sc_8b73a6b5ae",
+      "label": "간단함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "raw_status": "고급스러움",
+      "state_cluster_id": "sc_8b18453fb1",
+      "label": "고급스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_c7411a3b02",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_394c6a1fb0",
+      "raw_status": "튼튼함",
+      "state_cluster_id": "sc_a3156454f3",
+      "label": "튼튼함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_39afa467e5",
+      "raw_status": "다른 제품 추천",
+      "state_cluster_id": "sc_e4d9ced70f",
+      "label": "다른 제품 추천"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3bb1397518",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_67a24b2c00",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3bb1397518",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_c910f106fc",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "8bpc 고정",
+      "state_cluster_id": "sc_94bb194336",
+      "label": "8bpc 고정"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_1555b1bbbb",
+      "label": "좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "깊고 풍부함",
+      "state_cluster_id": "sc_a9e79681a1",
+      "label": "깊고 풍부함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "깔끔하고 선명함",
+      "state_cluster_id": "sc_9c1c241b30",
+      "label": "깔끔하고 선명함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_f7fea06b74",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "떨어짐",
+      "state_cluster_id": "sc_cc06493e3a",
+      "label": "떨어짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "만족스러움",
+      "state_cluster_id": "sc_26601c892a",
+      "label": "만족스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "생생함",
+      "state_cluster_id": "sc_60c7718a97",
+      "label": "생생함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "선명함",
+      "state_cluster_id": "sc_e936878345",
+      "label": "선명함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "안정적",
+      "state_cluster_id": "sc_ad76811bde",
+      "label": "안정적"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_c83d39b09b",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "완벽하게 일치함",
+      "state_cluster_id": "sc_af228c3e0c",
+      "label": "완벽하게 일치함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "자연스러움",
+      "state_cluster_id": "sc_faff1af52a",
+      "label": "자연스럽고 깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "자연스럽고 깔끔함",
+      "state_cluster_id": "sc_faff1af52a",
+      "label": "자연스럽고 깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "정확함",
+      "state_cluster_id": "sc_6b74180b9e",
+      "label": "정확함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "조정 불필요",
+      "state_cluster_id": "sc_ddf3bd38c9",
+      "label": "조정 불필요"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_1555b1bbbb",
+      "label": "좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "쨍하면서 자연스러움",
+      "state_cluster_id": "sc_39e276dc77",
+      "label": "쨍하면서 자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "풍부함",
+      "state_cluster_id": "sc_5291f6a1c6",
+      "label": "풍부함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "화사함",
+      "state_cluster_id": "sc_7c3fb30bbc",
+      "label": "화사함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_3fa39675ba",
+      "raw_status": "훌륭함",
+      "state_cluster_id": "sc_4f22ef6ddd",
+      "label": "훌륭함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4089150c56",
+      "raw_status": "정교함",
+      "state_cluster_id": "sc_a2ffd59b46",
+      "label": "정교함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_40f9bcc384",
+      "raw_status": "손으로 조임 가능",
+      "state_cluster_id": "sc_01f50e4a7e",
+      "label": "손으로 조임 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_463bfc87f7",
+      "raw_status": "최대 120",
+      "state_cluster_id": "sc_af6f523227",
+      "label": "최대 120"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "raw_status": "간단함",
+      "state_cluster_id": "sc_68cf4d5e77",
+      "label": "간단함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_7fa79880ed",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_46d0b74d32",
+      "raw_status": "완료",
+      "state_cluster_id": "sc_0e5f403947",
+      "label": "완료"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_47628777ea",
+      "raw_status": "어려움",
+      "state_cluster_id": "sc_0889ee31be",
+      "label": "어려움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4962fe6c58",
+      "raw_status": "회사에서 사용 중",
+      "state_cluster_id": "sc_b4d5aeac9d",
+      "label": "회사에서 사용 중"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4ad63d7099",
+      "raw_status": "간단함",
+      "state_cluster_id": "sc_70c228d38f",
+      "label": "간단함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4ad63d7099",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_0cef376469",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4af0122c40",
+      "raw_status": "웹서핑·미디어 감상·게임을 한 대로 수행 가능",
+      "state_cluster_id": "sc_240ff4de04",
+      "label": "웹서핑·미디어 감상·게임을 한 대로 수행 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4c0234f2f1",
+      "raw_status": "미흡함",
+      "state_cluster_id": "sc_c232be4f2d",
+      "label": "미흡함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4c0234f2f1",
+      "raw_status": "지원",
+      "state_cluster_id": "sc_34618a3004",
+      "label": "지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4d2e32a9a5",
+      "raw_status": "또렷함",
+      "state_cluster_id": "sc_c633944e44",
+      "label": "또렷함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4d2e32a9a5",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_5646023f84",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "raw_status": "견고함",
+      "state_cluster_id": "sc_38710f9b41",
+      "label": "견고함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_3543fa3d06",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_53e9641a98",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4fc81f0f90",
+      "raw_status": "탄탄함",
+      "state_cluster_id": "sc_acf68a3362",
+      "label": "탄탄함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_4ff3e76e3c",
+      "raw_status": "답답함이 적음",
+      "state_cluster_id": "sc_19d69305fe",
+      "label": "답답함이 적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "raw_status": "경쟁력 있음",
+      "state_cluster_id": "sc_0ecc89a3a9",
+      "label": "경쟁력 있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "raw_status": "비싼 편",
+      "state_cluster_id": "sc_3aef2dce00",
+      "label": "비싼 편"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_556f11ade6",
+      "raw_status": "저렴함",
+      "state_cluster_id": "sc_663cb655cc",
+      "label": "저렴함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5604b036b4",
+      "raw_status": "적용됨",
+      "state_cluster_id": "sc_da5199e2fd",
+      "label": "적용됨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_56ec81d340",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_60e5c096e4",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5a3d60c8e5",
+      "raw_status": "나사 없는 원터치 결합",
+      "state_cluster_id": "sc_355ea46897",
+      "label": "나사 없는 원터치 결합"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5a427dc345",
+      "raw_status": "무난함",
+      "state_cluster_id": "sc_ce08f36695",
+      "label": "무난함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5a427dc345",
+      "raw_status": "잘 나옴",
+      "state_cluster_id": "sc_63f857f675",
+      "label": "잘 나옴"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5bc6cf5989",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_d49c78df5d",
+      "label": "편리함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5cfa4cef0b",
+      "raw_status": "보기 좋음",
+      "state_cluster_id": "sc_76bcbb061e",
+      "label": "보기 좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5d5203ff32",
+      "raw_status": "슬림함",
+      "state_cluster_id": "sc_0f14f2b1e6",
+      "label": "슬림함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5d5203ff32",
+      "raw_status": "얇음",
+      "state_cluster_id": "sc_0b30b75096",
+      "label": "얇음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_5e245a2b2f",
+      "raw_status": "편안함",
+      "state_cluster_id": "sc_de47d5a769",
+      "label": "편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "raw_status": "감소",
+      "state_cluster_id": "sc_56e74130e8",
+      "label": "감소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_60d9f4e602",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_b3d28ae59c",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "raw_status": "가격 대비 성능이 좋음",
+      "state_cluster_id": "sc_059882670b",
+      "label": "가격 대비 성능이 좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_1ea4026139",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_30cef6a82f",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_618f9ab6b3",
+      "raw_status": "월등함",
+      "state_cluster_id": "sc_4c6656d362",
+      "label": "월등함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_61a1b551ea",
+      "raw_status": "정성이 느껴짐",
+      "state_cluster_id": "sc_4703fc2ad2",
+      "label": "정성이 느껴짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_61f6d7a0a7",
+      "raw_status": "고급스러움",
+      "state_cluster_id": "sc_fb5edc782c",
+      "label": "고급스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_61f6d7a0a7",
+      "raw_status": "든든함",
+      "state_cluster_id": "sc_f809c834ba",
+      "label": "든든함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6207ec126e",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_4d80e49ce7",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6207ec126e",
+      "raw_status": "있음",
+      "state_cluster_id": "sc_33db184ded",
+      "label": "있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6282ecb277",
+      "raw_status": "ips",
+      "state_cluster_id": "sc_526e4b7071",
+      "label": "IPS"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "raw_status": "2대 구성",
+      "state_cluster_id": "sc_cb076fdcc4",
+      "label": "2대 구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "raw_status": "넉넉함",
+      "state_cluster_id": "sc_4e01a5c305",
+      "label": "넉넉함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "raw_status": "넓어짐",
+      "state_cluster_id": "sc_2fd9bcab65",
+      "label": "넓어짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "raw_status": "이질감이 적음",
+      "state_cluster_id": "sc_73abad48bb",
+      "label": "이질감이 적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_632e7b58aa",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_7b6f8d044e",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "raw_status": "눈이 비교적 편안함",
+      "state_cluster_id": "sc_743f1c4529",
+      "label": "눈이 비교적 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "raw_status": "사용하기 좋음",
+      "state_cluster_id": "sc_3ce6ef22f4",
+      "label": "사용하기 좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_4eb2a93a2a",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_63443c33d4",
+      "raw_status": "편안함",
+      "state_cluster_id": "sc_9ab94e84b9",
+      "label": "편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_64607e624d",
+      "raw_status": "가능",
+      "state_cluster_id": "sc_aa30beb7b3",
+      "label": "가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_664d23c19e",
+      "raw_status": "공간 활용이 좋음",
+      "state_cluster_id": "sc_7909eb28bf",
+      "label": "공간 활용이 좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "raw_status": "ips",
+      "state_cluster_id": "sc_9a672943c9",
+      "label": "IPS"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "raw_status": "tn에 가까움",
+      "state_cluster_id": "sc_c5a1a7a910",
+      "label": "TN에 가까움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6668115cdc",
+      "raw_status": "문제 없을 가능성",
+      "state_cluster_id": "sc_b564893e20",
+      "label": "문제 없을 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6687b376f0",
+      "raw_status": "hdmi·dp 케이블 포함",
+      "state_cluster_id": "sc_050b16a797",
+      "label": "HDMI·DP 케이블 포함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6887e9c9bf",
+      "raw_status": "고장 없음 희망",
+      "state_cluster_id": "sc_fd6c1c0657",
+      "label": "고장 없음 희망"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_68d187d58d",
+      "raw_status": "완성",
+      "state_cluster_id": "sc_d3e146c436",
+      "label": "완성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6d18a74061",
+      "raw_status": "작업용",
+      "state_cluster_id": "sc_33de8cea49",
+      "label": "작업용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6d18a74061",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_2885602e1b",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6d7e84b96a",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_ceb20ed799",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6d7e84b96a",
+      "raw_status": "자유로움",
+      "state_cluster_id": "sc_50f66c65e8",
+      "label": "자유로움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6d7e84b96a",
+      "raw_status": "힘들이지 않고 가능",
+      "state_cluster_id": "sc_cf37c707d4",
+      "label": "힘들이지 않고 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6f169173fb",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_ab1c06f1d3",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_6f169173fb",
+      "raw_status": "어려움",
+      "state_cluster_id": "sc_62056136e8",
+      "label": "어려움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_71563c2dd1",
+      "raw_status": "한국·중국·유럽 규격 포함",
+      "state_cluster_id": "sc_ed2328610d",
+      "label": "한국·중국·유럽 규격 포함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_716bafcd24",
+      "raw_status": "우려",
+      "state_cluster_id": "sc_a20a34919c",
+      "label": "우려"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "raw_status": "달라짐",
+      "state_cluster_id": "sc_6804066b81",
+      "label": "달라짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "raw_status": "배치하기 좋음",
+      "state_cluster_id": "sc_b01a799a04",
+      "label": "배치하기 좋음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_72015ad36b",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_8784441d88",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_720b2dc429",
+      "raw_status": "또렷함",
+      "state_cluster_id": "sc_b13f53a8c8",
+      "label": "또렷함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_7554ae85d5",
+      "raw_status": "깔끔하고 세련됨",
+      "state_cluster_id": "sc_255c4fa05c",
+      "label": "깔끔하고 세련됨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_769ab099bc",
+      "raw_status": "자동 설치 실패",
+      "state_cluster_id": "sc_4107eb51f1",
+      "label": "자동 설치 실패"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "raw_status": "상승",
+      "state_cluster_id": "sc_778bc639bc",
+      "label": "상승"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_cf5ffde783",
+      "label": "편리함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_788c9b67fe",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_361ef9f437",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_78d644677a",
+      "raw_status": "사용 중",
+      "state_cluster_id": "sc_f71b5d143d",
+      "label": "사용 중"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_7aa79509a1",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_96325ce108",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_7bbfd3e6b3",
+      "raw_status": "작음",
+      "state_cluster_id": "sc_18669967cd",
+      "label": "작음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_7bbfd3e6b3",
+      "raw_status": "적합 가능성",
+      "state_cluster_id": "sc_20a12b1e93",
+      "label": "적합 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_814185710d",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_20a17f8a34",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_82ce97a22b",
+      "raw_status": "불편함 없음",
+      "state_cluster_id": "sc_b8bd3e7d57",
+      "label": "불편함 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_86d2700a96",
+      "raw_status": "부족함 없음",
+      "state_cluster_id": "sc_f30f3df899",
+      "label": "부족함 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_86d2700a96",
+      "raw_status": "적합 가능성",
+      "state_cluster_id": "sc_ac13a83148",
+      "label": "적합 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8773976a38",
+      "raw_status": "무결점 상품이 아니면 교환 불가",
+      "state_cluster_id": "sc_e910eec1ed",
+      "label": "무결점 상품이 아니면 교환 불가"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8773976a38",
+      "raw_status": "발견되지 않음",
+      "state_cluster_id": "sc_60319db89a",
+      "label": "발견되지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8773976a38",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_341af710a4",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8773976a38",
+      "raw_status": "하단에 3개 정도 길게 뭉쳐 있음",
+      "state_cluster_id": "sc_ffafa6d547",
+      "label": "하단에 3개 정도 길게 뭉쳐 있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8796484fe5",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_41cd7dd498",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8796484fe5",
+      "raw_status": "포함",
+      "state_cluster_id": "sc_759bd901d8",
+      "label": "포함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_87c748e2c8",
+      "raw_status": "fhd보다 조금 높음",
+      "state_cluster_id": "sc_56b16734fc",
+      "label": "FHD보다 조금 높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_87c748e2c8",
+      "raw_status": "저렴함",
+      "state_cluster_id": "sc_d0d29230de",
+      "label": "저렴함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "raw_status": "사용 중",
+      "state_cluster_id": "sc_340c30c858",
+      "label": "사용 중"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "raw_status": "차별화 가능성",
+      "state_cluster_id": "sc_2e2f125f87",
+      "label": "차별화 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8ae686d0a5",
+      "raw_status": "편안함",
+      "state_cluster_id": "sc_4dbbfad59c",
+      "label": "편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "raw_status": "넓음",
+      "state_cluster_id": "sc_9b9af2922a",
+      "label": "넓음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "raw_status": "답답하지 않음",
+      "state_cluster_id": "sc_0f0e23aa1d",
+      "label": "답답하지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "raw_status": "예뻐 보임",
+      "state_cluster_id": "sc_ef0e6d1388",
+      "label": "예뻐 보임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8c1db91d08",
+      "raw_status": "쨍하고 깨끗함",
+      "state_cluster_id": "sc_929317d884",
+      "label": "쨍하고 깨끗함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_8e24333f40",
+      "raw_status": "편안함",
+      "state_cluster_id": "sc_2d88f267bc",
+      "label": "편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9018814f1f",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_1f4dd751af",
+      "label": "편리함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9378a8cb4b",
+      "raw_status": "1분",
+      "state_cluster_id": "sc_0061578b0f",
+      "label": "1분"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9378a8cb4b",
+      "raw_status": "쉬움",
+      "state_cluster_id": "sc_9af87fe4e9",
+      "label": "쉬움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "raw_status": "변화가 적음",
+      "state_cluster_id": "sc_4f6d5e3e8d",
+      "label": "변화가 적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "raw_status": "색 반전과 흐려짐 없음",
+      "state_cluster_id": "sc_3f92eda9bc",
+      "label": "색 반전과 흐려짐 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_950dde45a7",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_1608ab2ebd",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_95f451eb18",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_5846051e91",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_95f451eb18",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_2d25a23cdd",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_987de107be",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_8aba178208",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_987de107be",
+      "raw_status": "편리할 것이라는 기대",
+      "state_cluster_id": "sc_1d7110752b",
+      "label": "편리할 것이라는 기대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "raw_status": "qhd",
+      "state_cluster_id": "sc_710a610073",
+      "label": "QHD"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "raw_status": "선명함",
+      "state_cluster_id": "sc_a4980b227a",
+      "label": "선명함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9950d2558a",
+      "raw_status": "훌륭함",
+      "state_cluster_id": "sc_07f9b3aa15",
+      "label": "훌륭함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9bd08c22ca",
+      "raw_status": "50:50",
+      "state_cluster_id": "sc_135160a4e0",
+      "label": "50:50"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9be3961194",
+      "raw_status": "적합 가능성",
+      "state_cluster_id": "sc_41701db2c4",
+      "label": "적합 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9d1eb8bb0d",
+      "raw_status": "27인치",
+      "state_cluster_id": "sc_6b37a5a985",
+      "label": "27인치"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9d1eb8bb0d",
+      "raw_status": "변경 가능",
+      "state_cluster_id": "sc_d935c52ef2",
+      "label": "변경 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_9f51187f7f",
+      "raw_status": "신뢰성 이점",
+      "state_cluster_id": "sc_4d8f9cce09",
+      "label": "신뢰성 이점"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a126798fd7",
+      "raw_status": "대부분 사용 불가",
+      "state_cluster_id": "sc_299233982f",
+      "label": "대부분 사용 불가"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a12f25ee5f",
+      "raw_status": "눈높이 맞춤 가능",
+      "state_cluster_id": "sc_db93fcd7c1",
+      "label": "눈높이 맞춤 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a1dc48565c",
+      "raw_status": "연장",
+      "state_cluster_id": "sc_119b740849",
+      "label": "연장"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a2a1bd12ce",
+      "raw_status": "가볍게 듣기에 나쁘지 않음",
+      "state_cluster_id": "sc_215ec46df9",
+      "label": "가볍게 듣기에 나쁘지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a348ef5cfa",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_8b0b1e0b49",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a38fdc0f13",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_16658ed6ef",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a3982fd796",
+      "raw_status": "불확실",
+      "state_cluster_id": "sc_a5f5b4d487",
+      "label": "불확실"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a3982fd796",
+      "raw_status": "적합",
+      "state_cluster_id": "sc_f1cd026efd",
+      "label": "적합"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "raw_status": "별도 제공",
+      "state_cluster_id": "sc_88a41f9bd1",
+      "label": "별도 제공"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "raw_status": "세로 2대 구성",
+      "state_cluster_id": "sc_2404726d11",
+      "label": "세로 2대 구성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a433bd1a57",
+      "raw_status": "체형과 책상 높이에 맞게 정밀하게 설정 가능",
+      "state_cluster_id": "sc_98a809d39c",
+      "label": "체형과 책상 높이에 맞게 정밀하게 설정 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a67b9713ae",
+      "raw_status": "탄탄함",
+      "state_cluster_id": "sc_0b5720e93b",
+      "label": "탄탄함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a6c5746386",
+      "raw_status": "거의 느껴지지 않음",
+      "state_cluster_id": "sc_2d0610d363",
+      "label": "거의 느껴지지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a87d99ecfd",
+      "raw_status": "다양한 각도 조절 가능",
+      "state_cluster_id": "sc_a61ae3689c",
+      "label": "다양한 각도 조절 가능"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a87d99ecfd",
+      "raw_status": "부드럽고 견고함",
+      "state_cluster_id": "sc_16b2230a06",
+      "label": "부드럽고 견고함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_a87d99ecfd",
+      "raw_status": "틸트·스위블·엘리베이션·피벗 지원",
+      "state_cluster_id": "sc_6d30e6594e",
+      "label": "틸트·스위블·엘리베이션·피벗 지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_aa2c57c8cd",
+      "raw_status": "많음",
+      "state_cluster_id": "sc_8b0b9ba461",
+      "label": "많음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_aa4d9f0274",
+      "raw_status": "영어 중심",
+      "state_cluster_id": "sc_d23863c3bf",
+      "label": "영어 중심"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "100hz",
+      "state_cluster_id": "sc_12130069d0",
+      "label": "120Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "120hz",
+      "state_cluster_id": "sc_12130069d0",
+      "label": "120Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "144hz",
+      "state_cluster_id": "sc_737fb92185",
+      "label": "144Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "165hz",
+      "state_cluster_id": "sc_136b43446e",
+      "label": "165Hz"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "가격 대비 높음",
+      "state_cluster_id": "sc_face9f2a2a",
+      "label": "가격 대비 높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_cf689ed61c",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "차이가 느껴짐",
+      "state_cluster_id": "sc_f707d20323",
+      "label": "차이가 느껴짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b3a6373ae7",
+      "raw_status": "출력 불가",
+      "state_cluster_id": "sc_1e1f51c10b",
+      "label": "출력 불가"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b452413b1a",
+      "raw_status": "감소",
+      "state_cluster_id": "sc_c1334a7335",
+      "label": "감소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b6e8c069a9",
+      "raw_status": "3년으로 추정",
+      "state_cluster_id": "sc_f22a92b057",
+      "label": "3년으로 추정"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "raw_status": "눈이 정화되는 기분",
+      "state_cluster_id": "sc_af29cb2445",
+      "label": "눈이 정화되는 기분"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_b6538bb2ef",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "raw_status": "잘 나옴",
+      "state_cluster_id": "sc_62a088408a",
+      "label": "잘 나옴"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "raw_status": "체감됨",
+      "state_cluster_id": "sc_50affc835d",
+      "label": "체감됨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_b80b2146aa",
+      "raw_status": "한눈에 들어옴",
+      "state_cluster_id": "sc_82158cfe66",
+      "label": "한눈에 들어옴"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ba9c42ea33",
+      "raw_status": "진땀 흘림",
+      "state_cluster_id": "sc_99d9afdddd",
+      "label": "진땀 흘림"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "5년 작동 희망",
+      "state_cluster_id": "sc_d15de6821a",
+      "label": "5년 작동 희망"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_c471712638",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "무결점",
+      "state_cluster_id": "sc_b14d76689a",
+      "label": "무결점"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "문제 없음",
+      "state_cluster_id": "sc_292f2d5db8",
+      "label": "문제 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "양호함",
+      "state_cluster_id": "sc_c471712638",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bb83d287ee",
+      "raw_status": "정상 작동 기대",
+      "state_cluster_id": "sc_60246e9d91",
+      "label": "정상 작동 기대"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_bcc38b5a0c",
+      "raw_status": "작음",
+      "state_cluster_id": "sc_0eb1e47a91",
+      "label": "작음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be084743db",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_5a3fa6ec87",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "과하지 않음",
+      "state_cluster_id": "sc_ed40f53d14",
+      "label": "과하지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_23416182ef",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "단단하고 깔끔함",
+      "state_cluster_id": "sc_23416182ef",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "맥과 어울림",
+      "state_cluster_id": "sc_fd116be3a6",
+      "label": "맥과 어울림"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "멋있음",
+      "state_cluster_id": "sc_97b2e3b4b8",
+      "label": "멋있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "사용 적합",
+      "state_cluster_id": "sc_2419568d8a",
+      "label": "사용 적합"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be1d671f1d",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_d8c8c76ec1",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be40984a7a",
+      "raw_status": "발생",
+      "state_cluster_id": "sc_1f28fab316",
+      "label": "발생"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be40984a7a",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_dda01057ae",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_be755ad7af",
+      "raw_status": "넓음",
+      "state_cluster_id": "sc_bc0a90e5f0",
+      "label": "넓음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c36426a2fa",
+      "raw_status": "미니멀하고 고급스러움",
+      "state_cluster_id": "sc_a091ec49f9",
+      "label": "미니멀하고 고급스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c4117473e6",
+      "raw_status": "활용 어려울 가능성",
+      "state_cluster_id": "sc_c6b55edb2d",
+      "label": "활용 어려울 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c58820e362",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_e2f86f5d0b",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c64d233666",
+      "raw_status": "고급스러움",
+      "state_cluster_id": "sc_4b7d0a2ead",
+      "label": "고급스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c64d233666",
+      "raw_status": "부족함",
+      "state_cluster_id": "sc_fb66b16a16",
+      "label": "부족함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c698fe1968",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_70d26cab08",
+      "label": "높음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c698fe1968",
+      "raw_status": "있음",
+      "state_cluster_id": "sc_ec6430853d",
+      "label": "있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c7b4ddd812",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_7af0629f03",
+      "label": "적합함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "raw_status": "낮음",
+      "state_cluster_id": "sc_7fc99b8bea",
+      "label": "낮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "raw_status": "다소 감소",
+      "state_cluster_id": "sc_88a8cd2f10",
+      "label": "다소 감소"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_c83e66c38e",
+      "raw_status": "덜함",
+      "state_cluster_id": "sc_a6ae3d6e41",
+      "label": "덜함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_cbd1dc0538",
+      "raw_status": "괜찮을 것 같음",
+      "state_cluster_id": "sc_b342a2ac8e",
+      "label": "괜찮을 것 같음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ce4dec969a",
+      "raw_status": "qhd",
+      "state_cluster_id": "sc_0e8b17525f",
+      "label": "QHD"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ce4dec969a",
+      "raw_status": "처리 한계",
+      "state_cluster_id": "sc_644ad23486",
+      "label": "처리 한계"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_cf638c7b06",
+      "raw_status": "지원",
+      "state_cluster_id": "sc_2a9fca94c1",
+      "label": "지원"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_d0f21cf073",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_cdd5483f39",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_d643ae0130",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_5493f85047",
+      "label": "없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_d7a84dd93c",
+      "raw_status": "덜 피곤함",
+      "state_cluster_id": "sc_2061fafb60",
+      "label": "덜 피곤함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_dae2ff374f",
+      "raw_status": "나쁘지 않음",
+      "state_cluster_id": "sc_731a22136d",
+      "label": "나쁘지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_dae2ff374f",
+      "raw_status": "마음에 듦",
+      "state_cluster_id": "sc_6689850268",
+      "label": "마음에 듦"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_db9b628f2a",
+      "raw_status": "볼맛 남",
+      "state_cluster_id": "sc_ec316ca6a3",
+      "label": "볼맛 남"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_dd0024b036",
+      "raw_status": "눈이 편안함",
+      "state_cluster_id": "sc_faa195b420",
+      "label": "눈이 편안함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_df65382e89",
+      "raw_status": "준수함",
+      "state_cluster_id": "sc_db6c5afa35",
+      "label": "준수함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_e2a8a7742e",
+      "raw_status": "hdmi·dp 지원, usb 허브 탑재",
+      "state_cluster_id": "sc_43371f76da",
+      "label": "HDMI·DP 지원, USB 허브 탑재"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_e45910a841",
+      "raw_status": "있음",
+      "state_cluster_id": "sc_204bd15e14",
+      "label": "있음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_e7395d38d0",
+      "raw_status": "튼튼함",
+      "state_cluster_id": "sc_9793763a73",
+      "label": "튼튼함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_e75d324ec5",
+      "raw_status": "잘 보임",
+      "state_cluster_id": "sc_28a0561386",
+      "label": "잘 보임"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ea2c0b6f07",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_78f0700aef",
+      "label": "적음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_eacf87edea",
+      "raw_status": "사용",
+      "state_cluster_id": "sc_07efbf94ee",
+      "label": "사용"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ed5d268126",
+      "raw_status": "되어 있을 것 같음",
+      "state_cluster_id": "sc_1ee15b12e7",
+      "label": "되어 있을 것 같음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_ee79e7fe68",
+      "raw_status": "발견되지 않음",
+      "state_cluster_id": "sc_065e546885",
+      "label": "발견되지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_efca092752",
+      "raw_status": "자연스러움",
+      "state_cluster_id": "sc_64e95c3acd",
+      "label": "자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f34706648c",
+      "raw_status": "3개",
+      "state_cluster_id": "sc_3019383b3a",
+      "label": "3개"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f470b0fb91",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_7422f8105c",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f470b0fb91",
+      "raw_status": "향상",
+      "state_cluster_id": "sc_c6d67af2fb",
+      "label": "향상"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f49c7e66d2",
+      "raw_status": "도움",
+      "state_cluster_id": "sc_3ceeca90a6",
+      "label": "도움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f4add5877a",
+      "raw_status": "탄탄함",
+      "state_cluster_id": "sc_06f1dc7f1a",
+      "label": "탄탄함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f7b18f08a8",
+      "raw_status": "차이 없음",
+      "state_cluster_id": "sc_9319e140f9",
+      "label": "차이 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f88d7c0b74",
+      "raw_status": "우수함",
+      "state_cluster_id": "sc_e42031bd78",
+      "label": "우수함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f8dd9f931d",
+      "raw_status": "m4 맥미니",
+      "state_cluster_id": "sc_aef93d574d",
+      "label": "M4 맥미니"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f93421d6f5",
+      "raw_status": "자글자글하게 깨짐",
+      "state_cluster_id": "sc_0a39bf6430",
+      "label": "자글자글하게 깨짐"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_f99cf2d300",
+      "raw_status": "미작동 가능성",
+      "state_cluster_id": "sc_d4c9eaf02a",
+      "label": "미작동 가능성"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faa303a6b3",
+      "raw_status": "포함",
+      "state_cluster_id": "sc_49b0cffd4b",
+      "label": "포함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "거의 없음",
+      "state_cluster_id": "sc_d92f9d9433",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "검정색",
+      "state_cluster_id": "sc_35416b838a",
+      "label": "검정색"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "과하지 않음",
+      "state_cluster_id": "sc_410c1e957d",
+      "label": "과하지 않음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_1384c20f7b",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "깔끔함",
+      "state_cluster_id": "sc_f3b7c58155",
+      "label": "깔끔함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "노란끼가 많이 돎",
+      "state_cluster_id": "sc_806c893b13",
+      "label": "노란끼가 많이 돎"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "다름",
+      "state_cluster_id": "sc_bfdc5af625",
+      "label": "다름"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "많이 필요함",
+      "state_cluster_id": "sc_26185896e0",
+      "label": "많이 필요함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "상세함",
+      "state_cluster_id": "sc_cab41f8b4a",
+      "label": "상세함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "심플하고 모던함",
+      "state_cluster_id": "sc_2e38da5099",
+      "label": "심플하고 모던함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_d92f9d9433",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "자연스러움",
+      "state_cluster_id": "sc_bf1ae93650",
+      "label": "자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "자연스럽고 또렷함",
+      "state_cluster_id": "sc_bf1ae93650",
+      "label": "자연스러움"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "풍부하고 화사함",
+      "state_cluster_id": "sc_f57b11070e",
+      "label": "풍부하고 화사함"
+    },
+    {
+      "category_id": "computer_monitor",
+      "aspect_cluster_id": "ac_faed3a7d88",
+      "raw_status": "화사하고 정확함",
+      "state_cluster_id": "sc_99d5aef6d5",
+      "label": "화사하고 정확함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_00099d4fe6",
+      "raw_status": "거의 없음",
+      "state_cluster_id": "sc_1550fa9102",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_00099d4fe6",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_1550fa9102",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0057fe1df3",
+      "raw_status": "설정 가능",
+      "state_cluster_id": "sc_e52be70c61",
+      "label": "설정 가능"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_011693dacb",
+      "raw_status": "정착함",
+      "state_cluster_id": "sc_ba86c13f24",
+      "label": "정착함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0568603a73",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_86627dca55",
+      "label": "높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0568603a73",
+      "raw_status": "미흡함",
+      "state_cluster_id": "sc_5cc845dc58",
+      "label": "미흡함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0568603a73",
+      "raw_status": "알참",
+      "state_cluster_id": "sc_f2178a318d",
+      "label": "알참"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0568603a73",
+      "raw_status": "양호",
+      "state_cluster_id": "sc_faa095765b",
+      "label": "양호"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0568603a73",
+      "raw_status": "이상 없음",
+      "state_cluster_id": "sc_cdead009e3",
+      "label": "이상 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_09f3c0574f",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_f1b12fe486",
+      "label": "높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0a0f19da2c",
+      "raw_status": "빠름",
+      "state_cluster_id": "sc_84ff8f4ae7",
+      "label": "빠름"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0a0f19da2c",
+      "raw_status": "짧음",
+      "state_cluster_id": "sc_21d645df4d",
+      "label": "짧음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "raw_status": "다소 높음",
+      "state_cluster_id": "sc_9eb8f5c61b",
+      "label": "다소 높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "raw_status": "비쌈",
+      "state_cluster_id": "sc_911f8dc207",
+      "label": "비쌈"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "raw_status": "저렴함",
+      "state_cluster_id": "sc_3e156eebd8",
+      "label": "저렴함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0de09011fb",
+      "raw_status": "적당함",
+      "state_cluster_id": "sc_d3ae20a09a",
+      "label": "적당함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_0f00bf23e7",
+      "raw_status": "문제 없음",
+      "state_cluster_id": "sc_6dc0131f25",
+      "label": "문제 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_15451322bf",
+      "raw_status": "좋아할 가능성",
+      "state_cluster_id": "sc_0e6c9d3d47",
+      "label": "좋아할 가능성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_15fd905d6f",
+      "raw_status": "가벼움",
+      "state_cluster_id": "sc_4f5830346c",
+      "label": "가벼움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_15fd905d6f",
+      "raw_status": "낮음",
+      "state_cluster_id": "sc_bb71a5a590",
+      "label": "낮음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_15fd905d6f",
+      "raw_status": "다소 낮음",
+      "state_cluster_id": "sc_bb71a5a590",
+      "label": "낮음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_16f5aeb398",
+      "raw_status": "빠름",
+      "state_cluster_id": "sc_5bfd99a4f1",
+      "label": "빠름"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_19c35e4726",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_788912827b",
+      "label": "좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_19c35e4726",
+      "raw_status": "즐거움",
+      "state_cluster_id": "sc_20f8284b9b",
+      "label": "즐거움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_214ddd5c9a",
+      "raw_status": "마음에 듦",
+      "state_cluster_id": "sc_4d6871335d",
+      "label": "마음에 듦"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_214ddd5c9a",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_dad97e2733",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_214ddd5c9a",
+      "raw_status": "오묘함",
+      "state_cluster_id": "sc_8c421aec7e",
+      "label": "오묘함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "고급스러움",
+      "state_cluster_id": "sc_878b7a3e6b",
+      "label": "고급스러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_f266e7ba8d",
+      "label": "높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "단정하고 정갈함",
+      "state_cluster_id": "sc_1254010975",
+      "label": "단정하고 정갈함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "마음에 듦",
+      "state_cluster_id": "sc_294f6d1137",
+      "label": "마음에 듦"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "만족스러움",
+      "state_cluster_id": "sc_8fca62a083",
+      "label": "만족스러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "별로임",
+      "state_cluster_id": "sc_71cac36a87",
+      "label": "별로임"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_b87d922846",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "약간 높음",
+      "state_cluster_id": "sc_f266e7ba8d",
+      "label": "높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_4dfa4a79c9",
+      "label": "좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "쫀득함",
+      "state_cluster_id": "sc_838c4b987b",
+      "label": "쫀득함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2da518870e",
+      "raw_status": "처음 경험함",
+      "state_cluster_id": "sc_0ba12088c7",
+      "label": "처음 경험함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2de2693672",
+      "raw_status": "입력 씹힘",
+      "state_cluster_id": "sc_9f829271ec",
+      "label": "입력 씹힘"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2de2693672",
+      "raw_status": "정상 입력",
+      "state_cluster_id": "sc_3b1435c41f",
+      "label": "정상 입력"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2e7752485f",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_b93ceecba7",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2ec7d386cb",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_fc90c708ed",
+      "label": "적합함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2ec7d386cb",
+      "raw_status": "편안함",
+      "state_cluster_id": "sc_0a2a3b53e3",
+      "label": "편안함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2edbdec278",
+      "raw_status": "잔기스 약간 있음",
+      "state_cluster_id": "sc_4a1917420c",
+      "label": "잔기스 약간 있음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "raw_status": "귀여움",
+      "state_cluster_id": "sc_66d4aa35ff",
+      "label": "귀여움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "raw_status": "영롱함",
+      "state_cluster_id": "sc_bc62505209",
+      "label": "영롱함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_ef9ab0e94e",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "raw_status": "투명하고 예쁨",
+      "state_cluster_id": "sc_b9b4d05722",
+      "label": "투명하고 예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_2f7765e45e",
+      "raw_status": "투명함",
+      "state_cluster_id": "sc_b9b4d05722",
+      "label": "투명하고 예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_32e7ca8605",
+      "raw_status": "불확실",
+      "state_cluster_id": "sc_e03e890b2a",
+      "label": "불확실"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "raw_status": "만족 가능성",
+      "state_cluster_id": "sc_c006fa6fbd",
+      "label": "만족 가능성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "raw_status": "충분함",
+      "state_cluster_id": "sc_3ed823a99a",
+      "label": "충분함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_33b82d5bba",
+      "raw_status": "편리함",
+      "state_cluster_id": "sc_1b0de15a96",
+      "label": "편리함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_3ba8c0c13b",
+      "raw_status": "재미",
+      "state_cluster_id": "sc_da1695aba7",
+      "label": "재미"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_3c6a5d623d",
+      "raw_status": "모니터 아래",
+      "state_cluster_id": "sc_53ca20575e",
+      "label": "모니터 아래"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_42efb3fa91",
+      "raw_status": "유선 사용",
+      "state_cluster_id": "sc_596023374e",
+      "label": "유선 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_440232911d",
+      "raw_status": "해결됨",
+      "state_cluster_id": "sc_745adc7df2",
+      "label": "해결됨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "raw_status": "비직관적",
+      "state_cluster_id": "sc_0a73343506",
+      "label": "비직관적"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "raw_status": "정상 작동",
+      "state_cluster_id": "sc_5f1fbb48ba",
+      "label": "정상 작동"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_46ea31c5a9",
+      "raw_status": "제한적",
+      "state_cluster_id": "sc_ec8b83fa4c",
+      "label": "제한적"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4713403490",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_c330a0e133",
+      "label": "적음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4713403490",
+      "raw_status": "조용함",
+      "state_cluster_id": "sc_36fcb288d3",
+      "label": "조용함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4713403490",
+      "raw_status": "크지 않음",
+      "state_cluster_id": "sc_e84a9123c8",
+      "label": "크지 않음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_47d1537aa0",
+      "raw_status": "입력 불가",
+      "state_cluster_id": "sc_47c1887802",
+      "label": "입력 불가"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "raw_status": "간헐적 끊김",
+      "state_cluster_id": "sc_70b426c504",
+      "label": "간헐적 끊김"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "raw_status": "끊김 없음",
+      "state_cluster_id": "sc_8c9cba618a",
+      "label": "끊김 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "raw_status": "원활함",
+      "state_cluster_id": "sc_8cf8cf9b51",
+      "label": "원활함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4a882c2ad5",
+      "raw_status": "정상 작동",
+      "state_cluster_id": "sc_541ee1c9e6",
+      "label": "정상 작동"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4b2bbf2426",
+      "raw_status": "도각도각 소리",
+      "state_cluster_id": "sc_170f34ebac",
+      "label": "도각도각 소리"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4b2bbf2426",
+      "raw_status": "도글도글함",
+      "state_cluster_id": "sc_6c6b07a459",
+      "label": "도글도글함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4b2bbf2426",
+      "raw_status": "또각또각함",
+      "state_cluster_id": "sc_a733474fca",
+      "label": "또각또각함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4cc12b7b23",
+      "raw_status": "균형 잡힘",
+      "state_cluster_id": "sc_26cc63bfa4",
+      "label": "균형 잡힘"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_4cfbdc8ef8",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_4b8e83863b",
+      "label": "적합함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_540b3bf9ca",
+      "raw_status": "세트 구성 없음",
+      "state_cluster_id": "sc_c22bf9c163",
+      "label": "세트 구성 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_540b3bf9ca",
+      "raw_status": "필수",
+      "state_cluster_id": "sc_823369b874",
+      "label": "필수"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_59fb0e31fa",
+      "raw_status": "하우징 손상 가능성",
+      "state_cluster_id": "sc_fa278d57bb",
+      "label": "하우징 손상 가능성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_5a865d2f2d",
+      "raw_status": "연동 사용",
+      "state_cluster_id": "sc_37f1c3b1b3",
+      "label": "연동 사용"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_5e9dd25122",
+      "raw_status": "물결표 입력 가능 여부 불확실",
+      "state_cluster_id": "sc_a5c9e04a76",
+      "label": "물결표 입력 가능 여부 불확실"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_6600241929",
+      "raw_status": "멀쩡함",
+      "state_cluster_id": "sc_b2d75e2c34",
+      "label": "멀쩡함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_6635f18d68",
+      "raw_status": "구매 의향 있음",
+      "state_cluster_id": "sc_31c7608eed",
+      "label": "구매 의향 있음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_6a31aeb787",
+      "raw_status": "발전함",
+      "state_cluster_id": "sc_3f77feee4b",
+      "label": "발전함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_6d59b29d89",
+      "raw_status": "87키",
+      "state_cluster_id": "sc_43c28e6dcd",
+      "label": "87키"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_6f630e01a6",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_911320cc1a",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_7807abe47f",
+      "raw_status": "잘 어울림",
+      "state_cluster_id": "sc_4ad2847587",
+      "label": "잘 어울림"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_7a636f962a",
+      "raw_status": "사용 불가",
+      "state_cluster_id": "sc_ecb9a706c1",
+      "label": "사용 불가"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_7f87b06083",
+      "raw_status": "안심함",
+      "state_cluster_id": "sc_4ecaa33e58",
+      "label": "안심함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_8115a895cf",
+      "raw_status": "알루미늄",
+      "state_cluster_id": "sc_92c02a6ac7",
+      "label": "알루미늄"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_81ed58026b",
+      "raw_status": "플라스틱",
+      "state_cluster_id": "sc_0592618626",
+      "label": "플라스틱"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_88b0fd6ca8",
+      "raw_status": "추천",
+      "state_cluster_id": "sc_f040b9bea1",
+      "label": "추천"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_893951fa0f",
+      "raw_status": "있음",
+      "state_cluster_id": "sc_730634716a",
+      "label": "있음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_899cde8155",
+      "raw_status": "불량",
+      "state_cluster_id": "sc_3709aaf270",
+      "label": "불량"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_899cde8155",
+      "raw_status": "찍힘 발생",
+      "state_cluster_id": "sc_56fccf911d",
+      "label": "찍힘 발생"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_89c79b38ca",
+      "raw_status": "강함",
+      "state_cluster_id": "sc_e7550e302e",
+      "label": "강함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_8ce76bcf96",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_b66e85f084",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_8fe7f8e3cf",
+      "raw_status": "기분 좋음",
+      "state_cluster_id": "sc_c13c2f9325",
+      "label": "기분 좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_8fe7f8e3cf",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_3ed82c2255",
+      "label": "좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_92e048939e",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_aebd6b9e75",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_9614cb654e",
+      "raw_status": "백축",
+      "state_cluster_id": "sc_766e58b483",
+      "label": "백축"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_9f7ea80404",
+      "raw_status": "오류 발생",
+      "state_cluster_id": "sc_40f50649c2",
+      "label": "오류 발생"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a15e48d6d0",
+      "raw_status": "가벼움",
+      "state_cluster_id": "sc_5ba1799c15",
+      "label": "가벼움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a15e48d6d0",
+      "raw_status": "묵직함",
+      "state_cluster_id": "sc_faefe9266f",
+      "label": "묵직함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a15e48d6d0",
+      "raw_status": "있음",
+      "state_cluster_id": "sc_120113c61d",
+      "label": "있음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a3cbfec0d2",
+      "raw_status": "높음",
+      "state_cluster_id": "sc_bb204daf8d",
+      "label": "높음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a5289210c4",
+      "raw_status": "달라짐",
+      "state_cluster_id": "sc_d1a1e853ae",
+      "label": "달라짐"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a72a33b86f",
+      "raw_status": "도각도각함",
+      "state_cluster_id": "sc_6deb0d1409",
+      "label": "도각도각함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a72a33b86f",
+      "raw_status": "부드러움",
+      "state_cluster_id": "sc_c5f1c92d6a",
+      "label": "부드러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a88fc8b9c6",
+      "raw_status": "잘 잡아줌",
+      "state_cluster_id": "sc_4c7a730eed",
+      "label": "잘 잡아줌"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a88fc8b9c6",
+      "raw_status": "정갈함",
+      "state_cluster_id": "sc_79b4ad5ccc",
+      "label": "정갈함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_a88fc8b9c6",
+      "raw_status": "조약돌 굴러가는 듯함",
+      "state_cluster_id": "sc_1a0572e2f7",
+      "label": "조약돌 굴러가는 듯함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "raw_status": "거의 없음",
+      "state_cluster_id": "sc_df6f858737",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "raw_status": "발생",
+      "state_cluster_id": "sc_cc008f16ef",
+      "label": "발생"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_df6f858737",
+      "label": "거의 없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "raw_status": "완벽함",
+      "state_cluster_id": "sc_ab253b7081",
+      "label": "완벽함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b07e9256b6",
+      "raw_status": "잘 잡혀 있음",
+      "state_cluster_id": "sc_49c590da55",
+      "label": "잘 잡혀 있음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b3b4c8233f",
+      "raw_status": "플라스틱",
+      "state_cluster_id": "sc_c7d986736d",
+      "label": "플라스틱"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_b6925ea591",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_1f0e0c8394",
+      "label": "좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_be7ddc054e",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_509aaea914",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_c77072c4ba",
+      "raw_status": "원활함",
+      "state_cluster_id": "sc_5949229d0b",
+      "label": "원활함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_c77072c4ba",
+      "raw_status": "장기간 사용 희망",
+      "state_cluster_id": "sc_084ed02bf1",
+      "label": "장기간 사용 희망"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_cffcfd6bdf",
+      "raw_status": "게임에 따라 사용 가능",
+      "state_cluster_id": "sc_647dea4054",
+      "label": "게임에 따라 사용 가능"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_cffcfd6bdf",
+      "raw_status": "불편함 적음",
+      "state_cluster_id": "sc_20fcb4a506",
+      "label": "불편함 적음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_d17407ef1c",
+      "raw_status": "슴슴함",
+      "state_cluster_id": "sc_6b652e2dfc",
+      "label": "슴슴함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_d7fb207cf1",
+      "raw_status": "판단 보류",
+      "state_cluster_id": "sc_ca259c5659",
+      "label": "판단 보류"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_db11f21030",
+      "raw_status": "만족스러움",
+      "state_cluster_id": "sc_28b87c03b3",
+      "label": "만족스러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e09d4bddf7",
+      "raw_status": "여러 가지 설정 가능",
+      "state_cluster_id": "sc_320acb79df",
+      "label": "여러 가지 설정 가능"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e16b1e4f64",
+      "raw_status": "귀여움",
+      "state_cluster_id": "sc_aa3f0c0c82",
+      "label": "귀여움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e29875cd29",
+      "raw_status": "적합함",
+      "state_cluster_id": "sc_192ed88025",
+      "label": "적합함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e402bdfedd",
+      "raw_status": "비싸지만 값어치함",
+      "state_cluster_id": "sc_8526be95fd",
+      "label": "비싸지만 값어치함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e402bdfedd",
+      "raw_status": "충분한 값어치",
+      "state_cluster_id": "sc_520dbea8e8",
+      "label": "충분한 값어치"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_e8d6d7dd3d",
+      "raw_status": "증가",
+      "state_cluster_id": "sc_114e1e39cf",
+      "label": "증가"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "도각도각함",
+      "state_cluster_id": "sc_4582538f45",
+      "label": "도각도각함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "만점",
+      "state_cluster_id": "sc_29ee49e30f",
+      "label": "만점"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "만족스러움",
+      "state_cluster_id": "sc_0e70d5bb54",
+      "label": "만족스러움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "아크릴 타건음 선호",
+      "state_cluster_id": "sc_4328a35033",
+      "label": "아크릴 타건음 선호"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "정갈함",
+      "state_cluster_id": "sc_5b853035b7",
+      "label": "정갈함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "조용하고 도각거림",
+      "state_cluster_id": "sc_41df9fe67d",
+      "label": "조용하고 도각거림"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "조용함",
+      "state_cluster_id": "sc_ca7c9ca580",
+      "label": "조용함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "좋음",
+      "state_cluster_id": "sc_22a7789b40",
+      "label": "좋음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "쫀득쫀득함",
+      "state_cluster_id": "sc_cfb99f5fdc",
+      "label": "쫀득쫀득함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "쫀득함",
+      "state_cluster_id": "sc_cfb99f5fdc",
+      "label": "쫀득쫀득함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb179f71c1",
+      "raw_status": "칠 맛이 남",
+      "state_cluster_id": "sc_3845a90788",
+      "label": "칠 맛이 남"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb999526aa",
+      "raw_status": "번거로움",
+      "state_cluster_id": "sc_262bd2516f",
+      "label": "번거로움"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_eb999526aa",
+      "raw_status": "작동 안 함",
+      "state_cluster_id": "sc_adfa27f9e4",
+      "label": "작동 안 함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "독보적임",
+      "state_cluster_id": "sc_3e7ce92d92",
+      "label": "독보적임"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "독특함",
+      "state_cluster_id": "sc_56e9dab940",
+      "label": "독특함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "만점",
+      "state_cluster_id": "sc_f46d706ba0",
+      "label": "만점"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "매력적임",
+      "state_cluster_id": "sc_52511bc0d2",
+      "label": "매력적임"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "역대급",
+      "state_cluster_id": "sc_7b9a9a4596",
+      "label": "역대급"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_0ee7949a37",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "유니크하고 예쁨",
+      "state_cluster_id": "sc_38b9b72a52",
+      "label": "유니크하고 예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "유니크함",
+      "state_cluster_id": "sc_6defc1646d",
+      "label": "유니크함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ebb88c8b62",
+      "raw_status": "특이함",
+      "state_cluster_id": "sc_b05c219bef",
+      "label": "특이함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_ee6964f772",
+      "raw_status": "빠름",
+      "state_cluster_id": "sc_de300018c9",
+      "label": "빠름"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f07f397dab",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_800bff58f0",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "도각도각함",
+      "state_cluster_id": "sc_88fbcf7fe3",
+      "label": "도각도각함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "예쁨",
+      "state_cluster_id": "sc_707f70da06",
+      "label": "예쁨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "적음",
+      "state_cluster_id": "sc_1a1c86f8f9",
+      "label": "적음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "조용함",
+      "state_cluster_id": "sc_07fe185f7e",
+      "label": "조용함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "처음 경험함",
+      "state_cluster_id": "sc_6456a76f53",
+      "label": "처음 경험함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "타닥타닥",
+      "state_cluster_id": "sc_36ab60f6e5",
+      "label": "타닥타닥"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e09e0e2c",
+      "raw_status": "플룻 케이스로 활용할 가능성",
+      "state_cluster_id": "sc_242821dff1",
+      "label": "플룻 케이스로 활용할 가능성"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f1e434b17c",
+      "raw_status": "괜찮음",
+      "state_cluster_id": "sc_fcbc922bb7",
+      "label": "괜찮음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f2b210e963",
+      "raw_status": "덜 탄탄함",
+      "state_cluster_id": "sc_3b75007994",
+      "label": "덜 탄탄함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f2b210e963",
+      "raw_status": "비적층 구조",
+      "state_cluster_id": "sc_404bbf0691",
+      "label": "비적층 구조"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f50c15abe3",
+      "raw_status": "없음",
+      "state_cluster_id": "sc_856c70f155",
+      "label": "없음"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f847072f99",
+      "raw_status": "여러 기기에서 잘됨",
+      "state_cluster_id": "sc_9793ace490",
+      "label": "여러 기기에서 잘됨"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f89fa8c215",
+      "raw_status": "품절",
+      "state_cluster_id": "sc_7687c57961",
+      "label": "품절"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_f9b0088300",
+      "raw_status": "묵직하고 탄탄함",
+      "state_cluster_id": "sc_ed5577d7df",
+      "label": "묵직하고 탄탄함"
+    },
+    {
+      "category_id": "mechanical_keyboard",
+      "aspect_cluster_id": "ac_fb11c2acd0",
+      "raw_status": "잘되어 있음",
+      "state_cluster_id": "sc_25c2f03360",
+      "label": "잘되어 있음"
+    }
+  ]
+}

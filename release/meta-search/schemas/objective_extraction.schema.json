@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "objective_extraction",
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "object",
+      "properties": {
+        "category_id": {
+          "type": "string",
+          "description": "snake_case 영문 카테고리 ID. 기존 카테고리에 해당하면 그 ID"
+        },
+        "display_name": {
+          "type": "string",
+          "description": "한국어 카테고리 표시명"
+        },
+        "is_new": {
+          "type": "boolean",
+          "description": "기존 카테고리 목록에 없는 새 카테고리인가"
+        }
+      },
+      "required": [
+        "category_id",
+        "display_name",
+        "is_new"
+      ],
+      "additionalProperties": false
+    },
+    "identity": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "상품명"
+        },
+        "brand": {
+          "type": "string",
+          "description": "브랜드/제조사"
+        },
+        "model": {
+          "type": "string",
+          "description": "모델명 또는 모델 코드(옵션·색상 제외)"
+        }
+      },
+      "required": [
+        "name",
+        "brand",
+        "model"
+      ],
+      "additionalProperties": false
+    },
+    "attributes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": {
+            "type": "string",
+            "description": "snake_case 영문 키, 단위 미포함"
+          },
+          "display_name": {
+            "type": "string",
+            "description": "한국어 속성명"
+          },
+          "value_type": {
+            "type": "string",
+            "enum": [
+              "string",
+              "number",
+              "boolean",
+              "string_list"
+            ]
+          },
+          "unit": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "value_type=number일 때 단위, 아니면 null"
+          },
+          "value": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "number"
+              },
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ],
+            "description": "value_type에 맞는 값: string | number | boolean | string 배열(string_list)"
+          }
+        },
+        "required": [
+          "key",
+          "display_name",
+          "value_type",
+          "unit",
+          "value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "details_markdown": {
+      "type": "string",
+      "description": "상품 특징·설명을 정리한 Markdown 본문(원문 사실만)"
+    }
+  },
+  "required": [
+    "category",
+    "identity",
+    "attributes",
+    "details_markdown"
+  ],
+  "additionalProperties": false
+}

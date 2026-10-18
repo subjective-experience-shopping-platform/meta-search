@@ -1,0 +1,112 @@
+flowchart TD
+    START(["사용자: 상품 URL 전달"])
+    START --> REG["MCP: register_product(url)"]
+    REG --> URL{"URL 형식 유효?"}
+    URL -->|아니요| REJECT["등록 요청 거절"]
+    URL -->|예| JOB["SQLite jobs 생성<br/>status = queued"]
+
+    JOB --> SPAWN["Python 오케스트레이터<br/>별도 프로세스 실행"]
+    SPAWN --> RESPONSE["MCP 즉시 응답<br/>job_id, status = queued"]
+    SPAWN --> LOCK["파일 잠금 획득<br/>등록 작업 직렬화"]
+
+    subgraph S1["Stage 1 · 페이지 및 리뷰 수집"]
+        direction TB
+        COLLECT["agy + aside MCP<br/>상품 URL 접속 및 수집"]
+        SNAPSHOT["PageSnapshot 생성<br/>상품 설명 · 사양 원문 · 리뷰 최대 100개"]
+        CLEAN["Python 검증<br/>본문 유효성 · 리뷰 중복 제거"]
+        COLLECT --> SNAPSHOT --> CLEAN
+    end
+
+    LOCK --> COLLECT
+
+    subgraph S2["Stage 2 · 객관 속성 추출 및 상품 생성"]
+        direction TB
+        EXTRACT["codex<br/>객관 속성 구조화 · 카테고리 결정"]
+        VALIDATE["Python 검증<br/>JSON Schema · 식별 정보 · 속성 타입"]
+        CHECK{"신규 상품 등록 가능?"}
+        CREATE["카테고리 생성 또는 기존 카테고리 사용<br/>products INSERT · status = collecting"]
+        EXTRACT --> VALIDATE --> CHECK
+        CHECK -->|예| CREATE
+    end
+
+    CLEAN --> EXTRACT
+    CHECK -->|아니요| FAIL
+    CREATE --> PARALLEL["Stage 3 · 3개 파이프라인 병렬 실행"]
+
+    subgraph S3A["Stage 3A · 객관 속성 정규화"]
+        direction TB
+        A1{"카테고리의 첫 상품?"}
+        A2["전체 속성을 core로 등록<br/>taxonomy = provisional, v1"]
+        A3["기존 core 속성 중<br/>신규 상품의 누락 항목 확인"]
+        A4["agy<br/>누락된 core 속성 웹 조사"]
+        A5["기존 상품 + 신규 상품<br/>정규화 입력 생성"]
+        A6["agy<br/>속성 통합 · 표준 키 · core/extra 판단"]
+        A7["Python<br/>정규화 계획 검증 V01~V09"]
+        A8["카테고리 전체 속성 재구성<br/>taxonomy = normalized"]
+        A9[("SQLite<br/>category_attributes<br/>product_attributes")]
+        A1 -->|예| A2 --> A9
+        A1 -->|아니요| A3
+        A3 -->|누락 있음| A4 --> A5
+        A3 -->|누락 없음| A5
+        A5 --> A6 --> A7 --> A8 --> A9
+    end
+
+    subgraph S3B["Stage 3B · 체감 속성 추출 및 군집화"]
+        direction TB
+        B1{"수집된 리뷰 존재?"}
+        B2["리뷰 없음<br/>skipped · 경고 기록"]
+        B3["codex<br/>리뷰별 Opinion Unit 추출<br/>최대 4개 동시 실행"]
+        B4["Python<br/>Opinion Unit 검증 · 유효 항목 선별"]
+        B5[("SQLite<br/>reviews · opinion_units")]
+        B6["KR-SBERT<br/>체감 속성 표현 임베딩"]
+        B7["계층적 군집화<br/>Aspect → Status"]
+        B8["카테고리 전체 재군집화<br/>대표 표현 · 군집 ID 갱신"]
+        B9[("SQLite<br/>aspect_clusters · state_clusters")]
+        B1 -->|아니요| B2
+        B1 -->|예| B3 --> B4 --> B5
+        B5 --> B6 --> B7 --> B8 --> B9
+    end
+
+    subgraph S3C["Stage 3C · 판매 속성 조사"]
+        direction TB
+        C1["agy<br/>동일 모델 판매처 웹 조사"]
+        C2["가격 · 배송비 · 배송 기간<br/>재고 · 판매 URL 추출"]
+        C3["Python<br/>Offer 검증 · URL 중복 제거<br/>최대 10개"]
+        C4[("SQLite<br/>offers 전체 교체")]
+        C1 --> C2 --> C3 --> C4
+    end
+
+    PARALLEL --> A1
+    PARALLEL --> B1
+    PARALLEL --> C1
+
+    A9 --> JOIN["3개 파이프라인 완료 대기"]
+    B2 --> JOIN
+    B9 --> JOIN
+    C4 --> JOIN
+
+    JOIN --> RESULT{"모든 파이프라인 성공?"}
+
+    subgraph S4["Stage 4 · 등록 마무리"]
+        direction TB
+        READY["products.status = ready"]
+        DOC["상품 상세 Markdown 생성<br/>data/docs/product_id.md"]
+        DONE["jobs.status = done"]
+        NOTIFY["osascript<br/>macOS 등록 완료 알림"]
+        READY --> DOC --> DONE --> NOTIFY
+    end
+
+    RESULT -->|예| READY
+    RESULT -->|아니요| FAIL
+
+    FAIL["작업 실패 처리<br/>products.status = failed<br/>jobs.status = failed"]
+    FAIL --> ERROR["macOS 등록 실패 알림"]
+
+    NOTIFY --> END(["등록 완료 · 검색 가능"])
+    ERROR --> HIDDEN(["등록 실패 · 검색 비노출"])
+
+    RETRY["LLM 출력 검증 실패 시<br/>오류 내용을 첨부해 1회 재요청"]
+    RETRY -.-> VALIDATE
+    RETRY -.-> A7
+    RETRY -.-> B4
+    RETRY -.-> C3

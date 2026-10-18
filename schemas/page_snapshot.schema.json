@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "page_snapshot",
+  "type": "object",
+  "properties": {
+    "page_ok": {
+      "type": "boolean",
+      "description": "상품 페이지를 정상적으로 열고 상품 정보를 확인했는가"
+    },
+    "failure_reason": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "page_ok=false일 때 사유, 아니면 null"
+    },
+    "page_title": {
+      "type": "string",
+      "description": "브라우저 탭 제목"
+    },
+    "product_name": {
+      "type": "string",
+      "description": "페이지에 표기된 상품명 그대로"
+    },
+    "brand_text": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "페이지에 표기된 브랜드/제조사, 없으면 null"
+    },
+    "price_text": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "페이지에 표시된 가격 문자열 그대로, 없으면 null"
+    },
+    "spec_text": {
+      "type": "string",
+      "description": "사양/상세 스펙 영역의 원문 텍스트(표는 '항목: 값' 줄로). 없으면 빈 문자열"
+    },
+    "description_text": {
+      "type": "string",
+      "description": "상품 설명 영역의 원문 텍스트. 없으면 빈 문자열"
+    },
+    "review_count_on_page": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "페이지에 표시된 전체 리뷰 수, 없으면 null"
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "body": {
+            "type": "string",
+            "description": "리뷰 본문 원문 그대로"
+          },
+          "rating": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "별점(0~5), 없으면 null"
+          },
+          "written_at": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "작성일 YYYY-MM-DD, 없으면 null"
+          }
+        },
+        "required": [
+          "body",
+          "rating",
+          "written_at"
+        ],
+        "additionalProperties": false
+      },
+      "description": "수집한 리뷰(최대 max_reviews개)"
+    }
+  },
+  "required": [
+    "page_ok",
+    "failure_reason",
+    "page_title",
+    "product_name",
+    "brand_text",
+    "price_text",
+    "spec_text",
+    "description_text",
+    "review_count_on_page",
+    "reviews"
+  ],
+  "additionalProperties": false
+}

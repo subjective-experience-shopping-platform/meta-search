@@ -1,0 +1,6 @@
+sentence-transformers==5.1.2
+transformers==4.57.1
+huggingface-hub==0.35.3
+scikit-learn==1.7.2
+numpy==2.3.3
+boto3>=1.40,<2

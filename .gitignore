@@ -1,0 +1,15 @@
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+models/
+cloud/.build/
+cloud/allowed_tokens.json
+AGENTS.md
+.DS_Store
+.env
+.env.*
+!.env.example

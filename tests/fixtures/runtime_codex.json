@@ -1,0 +1,18 @@
+{
+  "opinion_units": [
+    {
+      "raw_aspect": "타건감",
+      "raw_status": null,
+      "excerpt": "타건감이 좋고 조용해서 만족합니다.",
+      "opinion": "타건감이 좋다고 평가하고 만족함",
+      "sentiment": "positive"
+    },
+    {
+      "raw_aspect": "소음",
+      "raw_status": "적음",
+      "excerpt": "타건감이 좋고 조용해서 만족합니다.",
+      "opinion": "조용해서 만족함",
+      "sentiment": "positive"
+    }
+  ]
+}

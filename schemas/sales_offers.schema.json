@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "sales_offers",
+  "type": "object",
+  "properties": {
+    "offers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "seller": {
+            "type": "string",
+            "description": "판매자 또는 판매 업체"
+          },
+          "retailer": {
+            "type": "string",
+            "description": "판매 사이트(예: 쿠팡, 11번가, 브랜드 공식몰)"
+          },
+          "url": {
+            "type": "string",
+            "description": "판매 상품 페이지 URL"
+          },
+          "price": {
+            "type": "integer",
+            "description": "배송비 제외 현재 판매가(정수)"
+          },
+          "currency": {
+            "type": "string",
+            "description": "ISO 4217 통화 코드(예: KRW)"
+          },
+          "shipping_fee": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "배송비, 무료=0, 미확인=null"
+          },
+          "shipping_days": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "예상 도착까지 일수, 미확인=null"
+          },
+          "availability": {
+            "type": "string",
+            "enum": [
+              "available",
+              "sold_out",
+              "discontinued",
+              "unknown"
+            ]
+          },
+          "evidence": {
+            "type": "string",
+            "description": "가격·재고를 확인한 페이지 표기(짧게)"
+          }
+        },
+        "required": [
+          "seller",
+          "retailer",
+          "url",
+          "price",
+          "currency",
+          "shipping_fee",
+          "shipping_days",
+          "availability",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "offers"
+  ],
+  "additionalProperties": false
+}
