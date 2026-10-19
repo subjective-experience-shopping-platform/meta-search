@@ -1,12 +1,12 @@
-# meta-search MCP
+# Meta-search MCP
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io) [![Python](https://img.shields.io/badge/Python-%3E%3D3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![MCP SDK](https://img.shields.io/badge/mcp-%3E%3D1.12%2C%3C2-00ADD8)](https://github.com/modelcontextprotocol/python-sdk)
 
 **상품의 객관적 사양, 사용자 리뷰, 판매 정보를 통합하여 검색하고 비교하는 Model Context Protocol(MCP) 서버입니다.**
 
-meta-search는 상품의 사양뿐 아니라 실제 사용자가 느낀 특징과 판매 조건까지 함께 고려하여 AI 에이전트가 상품을 탐색하고 비교할 수 있도록 지원합니다.
-
-수집된 상품 데이터는 로컬 SQLite 카탈로그에 저장되며, MCP를 지원하는 AI 클라이언트에서 자연어로 검색할 수 있습니다.
+- meta-search는 상품의 사양뿐 아니라 실제 사용자가 느낀 특징과 판매 조건까지 함께 고려하여 AI 에이전트가 상품을 탐색하고 비교할 수 있도록 지원합니다.
+- 수집된 상품 데이터는 로컬 SQLite 카탈로그에 저장되며, MCP를 지원하는 AI 클라이언트에서 자연어로 검색할 수 있습니다.
+- [semantic-review-extraction](https://github.com/subjective-experience-shopping-platform/semantic-review-extraction-experiment) 실험을 통해 유효성을 확인한 속성 추출 구조와 속성 표현 정규화 방법을 적용하여 체감 속성을 수집합니다.
 
 ## 주요 기능
 
@@ -22,7 +22,7 @@ meta-search는 상품의 사양뿐 아니라 실제 사용자가 느낀 특징�
 ### 요구 사항
 
 - `Antigravty2`, `ChatGPT(codex)`, `aside browser`가 설치 및 인증되어 있어야 하며 각각 `agy`, `codex`, `aside`를 통해 호출할 수 있어야 합니다. 3가지 모두 반드시 유료 플랜을 구독하지 않아도 됩니다.
-- Python >= 3.11, SQLite >= 3.45를 요구합니다.
+- `Python >= 3.11`, `SQLite >= 3.45`를 요구합니다.
 
 ### 설치
 
@@ -183,8 +183,10 @@ flowchart LR
 
 원격 정규화 토큰은 필요한 경우에만 사용되며 환경 변수 또는 별도 토큰 파일로 관리할 수 있습니다. 원격 정규화 토큰은 AWS 관리자가 명시적으로 부여하며 자동으로 발급되지 않습니다.
 
->[!warning] 본 MCP는 정식 배포 용도가 아닙니다.
->본 MCP는 가까운 지인들과 함께 사용할 목적으로 만들어진 MCP입니다. 이에 따라 원격 정규화 토큰은 허용된 인원만 제한적으로 사용할 수 있습니다. 다만 원격 정규화는 속성 갱신에만 사용되므로 상품 검색 기능을 사용하는 데는 문제가 없으며 서버를 비롯한 모든 코드가 공개되어 있어 `git clone`을 통해 직접 사용할 수 있습니다.
+> [!WARNING]
+> **본 MCP는 정식 배포 용도가 아닙니다.**
+>
+> 본 MCP는 가까운 지인들과 함께 사용할 목적으로 만들어진 MCP입니다. 이에 따라 원격 정규화 토큰은 허용된 인원만 제한적으로 사용할 수 있습니다. 다만 원격 정규화는 속성 갱신에만 사용되므로 상품 검색 기능을 사용하는 데는 문제가 없으며 서버를 비롯한 모든 코드가 공개되어 있어 `git clone`을 통해 직접 사용할 수 있습니다.
 
 
 ## 라이선스

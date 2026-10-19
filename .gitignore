@@ -13,3 +13,6 @@ AGENTS.md
 .env
 .env.*
 !.env.example
+
+# Local coding-agent instructions
+AGNETS.md

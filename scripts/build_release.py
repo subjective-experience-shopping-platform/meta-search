@@ -77,10 +77,12 @@ def build_release(root=ROOT, destination=None):
             + "\n"
         )
         (staged / "pyproject.toml").write_text(metadata, encoding="utf-8")
-        (staged / ".gitignore").write_text(".venv/\ndata/\n__pycache__/\n", encoding="utf-8")
+        (staged / ".gitignore").write_text(".venv/\ndata/\n__pycache__/\nAGENTS.md\nAGNETS.md\n", encoding="utf-8")
         uv = shutil.which("uv")
         if not uv:
             raise ValueError("uv가 필요합니다.")
+        if (target / "uv.lock").is_file():
+            shutil.copyfile(target / "uv.lock", staged / "uv.lock")
         subprocess.run([uv, "lock", "--directory", str(staged)], check=True)
         if target.exists():
             shutil.rmtree(target)
